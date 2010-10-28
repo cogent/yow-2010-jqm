@@ -33,12 +33,12 @@
                       = timeslot[:time]
                       %span.ui-li-count>
 
-                        %ul
-                          - timeslot[:sessions].each do |session|
-                            %li<
-                              %h3= session[:title]
-                              %p= session[:speakers]
-                              %p
-                              %strong= session[:track]
+                      %ul
+                        - timeslot[:sessions].each do |session|
+                          %li<
+                            %h3= session[:title]
+                            %p= session[:speakers]
+                            %p
+                            %strong= session[:track]
                   - else
                     %li= "#{timeslot[:time]} break"
