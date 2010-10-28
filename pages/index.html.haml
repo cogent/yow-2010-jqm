@@ -23,17 +23,22 @@
           - yow_days.each_with_index do |day, i|
 
             %li<
-              Day #{i+1}
+              Day#{i+1}
 
               %ul
                 - day.each do |timeslot|
-                  %li<
-                    = timeslot[:time]
+                  - session = !timeslot[:sessions].first[:title].nil?
+                  - if session
+                    %li<
+                      = timeslot[:time]
+                      %span.ui-li-count>
 
-                    %ul
-                      - timeslot[:sessions].each do |session|
-                        %li<
-                          %h3= session[:title]
-                          %p= session[:speakers]
-                          %p
-                          %strong= session[:track]
+                        %ul
+                          - timeslot[:sessions].each do |session|
+                            %li<
+                              %h3= session[:title]
+                              %p= session[:speakers]
+                              %p
+                              %strong= session[:track]
+                  - else
+                    %li= "#{timeslot[:time]} break"
