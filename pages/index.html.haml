@@ -19,27 +19,19 @@
 
       %div{"data-role" => "content"}
         %ul{"data-role" => "listview"}
-          %li{"data-role" => "list-divider"} Days
-          %li{"data-role" => "list-divider"}
-            Day 1
-          %li{"data-role" => "list-divider"}
-            8:00 - 8:30
-          %li
-            %h3.ul-li-heading Registration
-            %p.ul-li-desc
-            %p.ul-li-aside
-              %strong Registration
-          %li{"data-role" => "list-divider"}
-            8:30 - 9:00
-          %li
-            %h3.ul-li-heading Welcome
-            %p.ul-li-desc
-            %p.ul-li-aside
-              %strong Welcome
-          %li{"data-role" => "list-divider"}
-            9:00 - 10:00
-          %li
-            %h3.ul-li-heading Things I Wish I'd Known
-            %p.ul-li-desc Rod Johnson
-            %p.ul-li-aside
-              %strong Keynote Address
+
+          - yow_days.each_with_index do |day, i|
+          
+            %li{"data-role" => "list-divider"} Day #{i+1}
+
+            - day.each do |timeslot|
+
+              %li{"data-role" => "list-divider"}
+                = timeslot[:time]
+
+                - timeslot[:sessions].each do |session|
+                  %li>
+                    %h3.ul-li-heading= session[:title] || session[:track]
+                    %p.ul-li-desc= session[:speakers]
+                    %p.ul-li-aside
+                      %strong= session[:track]
