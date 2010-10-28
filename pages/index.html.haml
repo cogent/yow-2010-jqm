@@ -21,17 +21,19 @@
         %ul{"data-role" => "listview"}
 
           - yow_days.each_with_index do |day, i|
-          
-            %li{"data-role" => "list-divider"} Day #{i+1}
 
-            - day.each do |timeslot|
+            %li<
+              Day #{i+1}
 
-              %li{"data-role" => "list-divider"}
-                = timeslot[:time]
+              %ul
+                - day.each do |timeslot|
+                  %li<
+                    = timeslot[:time]
 
-                - timeslot[:sessions].each do |session|
-                  %li>
-                    %h3.ul-li-heading= session[:title] || session[:track]
-                    %p.ul-li-desc= session[:speakers]
-                    %p.ul-li-aside
-                      %strong= session[:track]
+                    %ul
+                      - timeslot[:sessions].each do |session|
+                        %li<
+                          %h3= session[:title]
+                          %p= session[:speakers]
+                          %p
+                          %strong= session[:track]
