@@ -27,7 +27,7 @@
 
               %ul
                 - day.each do |timeslot|
-                  - session = !timeslot[:sessions].first[:title].nil?
+                  - session = !timeslot[:sessions].first[:title].empty?
                   - if session
                     %li<
                       = timeslot[:time]

@@ -49,7 +49,9 @@ doc.xpath("//table//table//table/tr").each do |tr|
 	print "!!!!!!!!!!!!!!!!!! time = #{time}\n"
 	sessions = []
 	tr.xpath("td[position()>1]").each do |cell|
-		track, throwaway, title, throwaway, speaker = cell.children
+		track = cell.children.first
+		title = cell.xpath(".//a")
+		speaker = cell.xpath(".//strong")
 		link = ROOT + cell.xpath(".//a/@href").to_s
 		event_id = link.split("=").last
 		session = e.getSession(event_id.to_i)
