@@ -39,5 +39,6 @@
                             %p= session[:speakers]
                             %p
                             %strong= session[:track]
+                              
                   - else
                     %li= "#{timeslot[:time]} &mdash; #{timeslot[:sessions].first[:track]}"
