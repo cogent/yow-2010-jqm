@@ -62,7 +62,11 @@ end
 
 program << day unless day.empty?
 
-document = { :program => program, :speakers => e.getSpeakers(wanted_speaker_ids) }
+document = { :days => program, :speakers => e.getSpeakers(wanted_speaker_ids) }
 
-#print program.to_json
-print document.to_yaml
+File.open("yow.json", "w") do |f|
+	f.print document.to_json
+end
+File.open("yow.yaml", "w") do |f|
+	f.print document.to_yaml
+end
