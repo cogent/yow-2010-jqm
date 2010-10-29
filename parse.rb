@@ -55,7 +55,13 @@ doc.xpath("//table//table//table/tr").each do |tr|
 		session = e.getSession(event_id.to_i)
 		speaker_ids = session && session['speakerIds'] ? session['speakerIds'] : []
 		wanted_speaker_ids += speaker_ids
-		sessions << { :track => track.text.strip, :title => title ? title.text.strip : nil, :speakers => speaker ? speaker.text.strip : nil, :link => link, :abstract => session ? session['aabstract'] : nil, :speaker_ids => speaker_ids }
+		sessions << { :id => event_id, 
+						      :track => track.text.strip,
+									:title => title ? title.text.strip : nil, 
+									:speakers => speaker ? speaker.text.strip : nil, 
+									:link => link, 
+									:abstract => session ? session['aabstract'] : nil, 
+									:speaker_ids => speaker_ids }
 	end
 	day << { :time => time, :sessions => sessions }
 end
