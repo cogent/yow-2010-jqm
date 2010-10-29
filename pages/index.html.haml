@@ -5,33 +5,39 @@
     %meta{ :"http-equiv"=>"Content-Type", :content=>"text/html; charset=UTF-8" }
     %title YOW! Melbourne Schedule 2010
 
-    %link(rel='stylesheet' href='http://code.jquery.com/mobile/1.0a1/jquery.mobile-1.0a1.min.css')
+    %link{:rel => "stylesheet", :href => href("/jqm/jquery-20101028.mobile.min.css")}
 
-    %script{:src=>'http://code.jquery.com/jquery-1.4.3.min.js'}
-    %script{:src=>'http://code.jquery.com/mobile/1.0a1/jquery.mobile-1.0a1.min.js'}
+    %script{:src => href("/jqm/jquery-20101028.min.js")}
+    %script{:src => href("/jqm/jquery-20101028.mobile.min.js")}
       
   %body
 
-    #days(data-role='page')
+    %div(data-role="page")
 
-      %div(data-role='header')
-        YOW! Melbourne Schedule 2010
+      %div(data-role="header")
+        %h1 YOW! Melbourne Schedule 2010
 
       %div{"data-role" => "content"}
         %ul{"data-role" => "listview"}
 
           - yow_days.each_with_index do |day, i|
-          
-            %li{"data-role" => "list-divider"} Day #{i+1}
 
-            - day.each do |timeslot|
+            %li<
+              Day #{i+1}
 
-              %li{"data-role" => "list-divider"}
-                = timeslot[:time]
+              %ul
+                - day.each do |timeslot|
+                  - session = !timeslot[:sessions].first[:title].nil?
+                  - if session
+                    %li<
+                      = timeslot[:time]
 
-                - timeslot[:sessions].each do |session|
-                  %li>
-                    %h3.ul-li-heading= session[:title] || session[:track]
-                    %p.ul-li-desc= session[:speakers]
-                    %p.ul-li-aside
-                      %strong= session[:track]
+                      %ul
+                        - timeslot[:sessions].each do |session|
+                          %li<
+                            %h3= session[:title]
+                            %p= session[:speakers]
+                            %p
+                            %strong= session[:track]
+                  - else
+                    %li= "#{timeslot[:time]} &mdash; #{timeslot[:sessions].first[:track]}"
