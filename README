@@ -1,0 +1,11 @@
+It's a yow app!
+
+There's two pieces:
+
+1. A plain-ruby screen-scraper that takes the raw YOW schedule and turns it into something more structured.
+2. A pith website that presents a jquery mobile based frontend to that data
+
+To make it go:
+
+ruby parse.rb # this generates a yow.json and yow.yaml file
+rake serve
