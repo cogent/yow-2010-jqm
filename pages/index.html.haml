@@ -12,43 +12,7 @@
       
   %body
 
-    %div(data-role="page")
+    ~ include("_schedule.html.haml")
 
-      %div(data-role="header")
-        %h1 YOW! Melbourne Schedule 2010
-
-      %div{"data-role" => "content"}
-        %ul{"data-role" => "listview"}
-
-          - yow_days.each_with_index do |day, i|
-
-            %li<
-              Day #{i+1}
-
-              %ul
-                - day.each do |timeslot|
-                  - session = !timeslot[:sessions].first[:title].empty?
-                  - if session
-                    %li<
-                      = timeslot[:time]
-
-                      %ul
-                        - timeslot[:sessions].each do |session|
-                          %li<
-                            %h3
-                              %a{:href => "#session#{session[:id]}"}= session[:title]
-                            %p= session[:speakers]
-                            %p
-                            %strong= session[:track]
-                              
-                  - else
-                    %li= "#{timeslot[:time]} &mdash; #{timeslot[:sessions].first[:track]}"
     - yow_sessions.each do |session|
-      %div(data-role="page" id="session#{session[:id]}")
-        %div(data-role="header")
-          %h1 Session Detail
-        %div(data-role="content")
-          %h1= session[:title]
-          %h2= session[:speakers]
-          = session[:abstract]
-      
+      ~ include("_session.html.haml", :session => session)
