@@ -1,0 +1,2479 @@
+--- 
+:days: 
+- - :time: 8:00 - 8:30
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Registration
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: ""
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 8:30 - 9:00
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Welcome
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: ""
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 9:00 - 10:00
+    :sessions: 
+    - :speaker_ids: 
+      - 1556
+      :track: Keynote Address
+      :abstract: |-
+        <p>
+        Australian technologist and entrepreneur Rod Johnson will talk candidly about some of the lessons he's learnt over 15 years in IT, some of the mistakes he's made and observed others making, and some of the things that proved to work. The talk will cover both business and technical topics and reflect Rod's experience writing books on Java programming, creating and leading the popular Spring Framework and building a successful venture-funded software company, acquired in 2009 by VMware, where Rod is today an executive.
+        </p>
+        <p>
+        <b>Keywords:&nbsp; </b>Java, Enterprise Computing
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2762
+      :title: Things I Wish I'd Known
+      :speakers: Rod Johnson
+      :id: "2762"
+  - :time: 10:00 - 10:15
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Morning Tea
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Morning Tea
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: "10:15 - 11:15\n                        \xC2\xA0"
+    :sessions: 
+    - :speaker_ids: 
+      - 1689
+      :track: Enterprise Java
+      :abstract: |-
+        <p>
+        Delight your customers and impress your colleagues by delivering enterprise Java applications faster than ever before. In this session we'll introduce Spring Roo, an open source tool that makes it easy to build applications using the Java language, standards and technologies you already know. In this demonstration-oriented session, we will cover: 
+        </p>
+        <ul>
+        	<li>Support for Java standards including JPA, Servlet Spec, JSP, JavaBean Validation, JavaMail, JMS etc </li>
+        	<li>Transparently reverse engineering and synchronising database schemas - Automatic Google Web Toolkit (GWT) UIs </li>
+        	<li>Automatic JUnit tests, Maven builds, JSP pages, toString() methods etc - Deploying to clouds such as Google App Engine </li>
+        	<li>Extending Roo with add-ons - Removing Roo from your project in four clicks </li>
+        </ul>
+        <p>
+        This session assumes basic Enterprise Java development knowledge. 
+        </p>
+        <p>
+        <strong>Keywords: </strong>Java, JavaBean, JSP, Enterprise Development&nbsp;
+        </p>
+        <p>
+        <strong>Target Audience: </strong>Application developers, Java developers
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2624
+      :title: "Extreme Java   Productivity: Enterprise Applications in Just Minutes"
+      :speakers: Ben Alex
+      :id: "2624"
+    - :speaker_ids: 
+      - 1797
+      - 1798
+      :track: MS.Net
+      :abstract: "<p>\r\n\
+        For some people the .NET ecosystem comes along with some negative \r\n\
+        connotations related to closed-source, prescriptive, narrow solution \r\n\
+        architectures.\r\n\
+        </p>\r\n\
+        <p>\r\n\
+        Nonetheless, there is a rich array of interesting technology \r\n\
+        available when using .NET \x13 whether on Windows or on Mono. Microsoft is \r\n\
+        investing in languages and frameworks, open-source innovations are being\r\n\
+        applied from other platforms, and very smart people using .NET as the \r\n\
+        best choice for their circumstance.\r\n\
+        </p>\r\n\
+        <p>\r\n\
+        This talk will showcase some of the very interesting languages, \r\n\
+        development tools, frameworks and architectural approaches (whether from\r\n\
+        Microsoft or from the Alpha Geeks in the .NET community) that you \r\n\
+        should have on your list of things to research, learn, and use over the \r\n\
+        next 12 months.\r\n\
+        </p>\r\n\
+        <p>\r\n\
+        <b>Keywords</b>: .NET, open source, innovation, Mono, tools\r\n\
+        </p>\r\n\
+        <p>\r\n\
+        <b>Target audience</b>: MSDN subscribers looking for something more, \r\n\
+        .NET architects and developers, the .NET-curious\r\n\
+        </p>"
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2737
+      :title: |-
+        The State of the Art .NET: 
+                                  12 months of things to learn
+      :speakers: Amanda Laucher  Josh Graham
+      :id: "2737"
+    - :speaker_ids: 
+      - 1636
+      :track: Ruby
+      :abstract: |-
+        <p>
+        You will learn about the changes in Rails 3 that make
+        your life as a web developer easier. Most of the significant changes have to do
+        with the implementation of Rails under the covers. We'll look at what those
+        changes are and how they affect you. We'll also take a look at which APIs
+        changed, from initialization hooks to query generation with Arel, a relational
+        algebra library. Other topics include the new ActiveModel library, the
+        influence of Merb on Rails 3, its overall Modularity and Bundler.
+        </p>
+        <p>
+        <b>Keywords:</b> Ruby, Ruby on Rails 
+        </p>
+        <p>
+        <b>Target audience:</b> Developers with at least minimal
+        knowledge of Rails that haven't kept up to date with what's new in Rails 3
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2636
+      :title: "The Rich Get Richer: Rails 3"
+      :speakers: Obie Fernadez
+      :id: "2636"
+  - :time: "11:20 - 12:20\n                        \xC2\xA0 "
+    :sessions: 
+    - :speaker_ids: 
+      - 1631
+      :track: Enterprise SOA
+      :abstract: |-
+        <p>
+        Rachel works with many clients architecting and implementing 
+        connectivity solutions, particularly focused on Enterprise Service Bus.&nbsp;
+        In this session, Rachel will explore established architectures for ESB 
+        and new emerging architectures for connectivity/ESB including 
+        connectivity in and to the Cloud, federated service management, 
+        expanding role of appliances, hybrid buses using multiple technologies, 
+        and dynamic policy-driven ESBs.&nbsp; She will use client examples to 
+        illustrate these relatively new connectivity architectures.<b></b>
+        </p>
+        <p>
+        <b>Keywords</b>: SOA, Service Oriented Architecture, Architecture, 
+        Enterprise Service Bus, ESB, Connectivity, Management
+        </p>
+        <p>
+        <b>Target Audience</b>: Architects, technical leads, and IT managers who 
+        have experience with messaging, connectivity, B2B, SOA or ESB. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2646
+      :title: |-
+        Connectivity for Today's 
+                                  Complex World
+      :speakers: Enterprise SOARachel Reinitz
+      :id: "2646"
+    - :speaker_ids: 
+      - 1635
+      :track: MS.NET
+      :abstract: |-
+        <p>
+        Asynchronous, event-driven &quot;reactive&quot; programming is way too hard in 
+        today's world of development tools and frameworks. The huge amount of 
+        manual and error-prone plumbing leads to incomprehensible and hard to 
+        maintain code. As we reach out to services in the cloud, the desire for 
+        asynchronous computation is ever increasing, requiring a fresh look on 
+        the problems imposed by reactive programming. Centered around the 
+        concept of observable data sources, Rx provides a framework that takes 
+        care of the hard parts of reactive programming. Instead of focusing on 
+        the hard parts, you now can start dreaming about the endless 
+        possibilities of composing queries over asynchronous data sources, 
+        piggybacking on convenient LINQ syntax. In this session, we'll cover the
+        design philosophy of Rx, rooted on the deep duality between the 
+        interactive IEnumerable interface and the new reactive IObservable 
+        interface in .NET 4. From this core understanding, we'll start looking 
+        at various combinators and operators defined over observable 
+        collections, as provided by Rx, driving concepts home by a bunch of 
+        samples. Finally, if time permits, we'll look at the Reactive Extensions
+        for JavaScript which allows us to take the concepts we already know 
+        from Rx and apply them to JavaScript and have deep integration with 
+        libraries such as jQuery.&nbsp; Democratizing asynchronous programming starts
+        today. Don't miss out on it!
+        </p>
+        <p>
+        <b>Keywords:</b> Complex event processing, asynchronous programming, 
+        agents, concurrency, JavaScript, C#, LINQ, NoSQL, Web 2.0, Enterprise Computing, Cloud, MS.net
+        </p>
+        <p>
+        <b>Target audience: </b>Anyone that writes code that involves UI or Web 
+        services
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2654
+      :title: |-
+        Rx: Curing Your Asynchronous 
+                                  Programming Blues
+      :speakers: Erik Meijer
+      :id: "2654"
+    - :speaker_ids: 
+      - 1612
+      :track: Ruby
+      :abstract: |-
+        <p>
+        While others have been debating whether Rails can scale to enterprise levels, we've been demonstrating it. ThoughtWorks is running one of the largest Rails projects in the world, for an Enterprise. This session discusses tactics, techniques, best practices, and other things we've learned from scaling rails development. I discuss infrastructure, testing, messaging, optimization, performance, and the results of lots of lessons learned, including killer rock-scissors-paper tricks to help you avoid babysitting the view tests!&nbsp; 
+        </p>
+        <p>
+        <b>Keywords:&nbsp; </b>Ruby, Ruby on Rails, Process, Agile, Best Practices, Architecture, Design, Craftmanship 
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>Developers interested in how we combine agility and large-scale enterprise development using Ruby on Rails. 
+        </p>
+        <b></b>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2598
+      :title: |-
+        Rails in the Large: How We're 
+                                  Building (One of) the Largest Rails 
+                                  Apps in the World (for an Enterprise)
+      :speakers: Neal Ford
+      :id: "2598"
+  - :time: 12:20 - 1:00
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Lunch
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Lunch
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: "1:00 - 2:00 "
+    :sessions: 
+    - :speaker_ids: 
+      - 1847
+      :track: Enterprise
+      :abstract: |-
+        <p>
+        Calling everything a service 
+        makes the term meaningless. Now, we've got 13 different kinds of 
+        services and no clue when to use which one. Is a single operation a 
+        service? Is a single endpoint a service? What about cross cutting 
+        functions like authorization and data access? If you've been wondering 
+        about these sorts of questions, then this talk is for you. If you've 
+        been looking for a top-down analysis and design process, then this talk 
+        is for you. If you've been looking for concrete guidance on how to 
+        choose technology for SOA, then this talk is for you. Join Udi as he 
+        describes the &quot;missing links&quot; in SOA: Business Components and Autonomous
+        Components. It turns out that components are more important than ever 
+        in this new, service-oriented world.
+        </p>
+        <p>
+        <b>Keywords: </b>Architecture, SOA, MS.net
+        </p>
+        <p>
+        &nbsp;
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2748
+      :title: |-
+        Avoid a   Failed SOA - Business                        & Autonomous Components 
+                                to the Rescue
+      :speakers: Udi Dahan
+      :id: "2748"
+    - :speaker_ids: 
+      - 1637
+      :track: Best Practices
+      :abstract: |-
+        <p>
+        Integrated tests are a scam -- a self-replicating virus that 
+        threatens to infect your code base, your project, and your team with 
+        endless pain and suffering. In this session you will learn the 
+        reasons integrated tests will let you down and a simple, two-part 
+        strategy to regain control of your defect rate and your design.
+        </p>
+        <p>
+        <b>Keywords: </b>Craftmanship, Design, mock objects, test doubles, integrated tests, unit tests, 
+        integration tests, microtests, testing, best practices, agile
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>Programmers finding themselves frustrated that their tests don't find 
+        their integration mistakes; Anyone finding himself buried under an 
+        ever-growing mountain of complex, brittle tests.
+        <br />
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2600
+      :title: Integrated Tests Are A Scam
+      :speakers: J. B. Rainsberger
+      :id: "2600"
+    - :speaker_ids: 
+      - 1616
+      :track: Languages & Concurrency
+      :abstract: |-
+        <p>
+        The Fortress programming language integrates traditional mathematical
+        notation into an object-oriented framework based on traits with
+        multiple inheritance, overloading (of both methods and functions)
+        resolved by symmetric dynamic dispatch, static types, and separately
+        compiled modules.  A component/API system governs visibility of traits,
+        objects, and functions, but it is desirable to regard overloadings that
+        are visible to the callee as part of its implementation, even though
+        they may not be visible to the caller.  This complicates the rules for dispatch.
+        Simply put, the same method name may refer to different methods
+        in different compilation units, depending on the import and export declarations,
+        and the implementation has to make it all work.
+        </p>
+        <p>
+        Moreover, a longstanding problem with multiple inheritance is what to do when
+        methods inherited from several parents conflict.  Many approaches have
+        been explored in the literature; some unfortunately violate the
+        intuitively desirable requirement that the function or method invoked
+        be the uniquely most specific one that is both accessible and
+        applicable.  Fortress detects potential overloading ambiguity at compile time
+        and issues error messages explaining to the programmer what additional
+        overloadings are needed to resolve the problem; therefore it is impossible for any
+        function or method call to be ambiguous.  This idea goes back nearly
+        two decades, but Fortress appears to be the first programming language
+        to adopt the idea and enforce it statically, even in the face of separate compilation.
+        It enables a distributed implementation of dispatching that is easy to explain
+        and allows selective export and selective optimization.  In this way a single
+        strategy meets the requirements of both the multimethod dispatch and the
+        component visibility rules.
+        </p>
+        <p>
+        <b>Keywords:</b> Object-oriented programming, traits, multiple dispatch, symmetric dispatch, multiple inheritance, overloading, modularity, multimethods, static types, components, separate compilation, visitor pattern, Language, Java, Fortress
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>Developers with an interest in next-generation object-oriented languages
+        </p>
+        <p>
+        &nbsp;
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2715
+      :title: |-
+        Fully Modular, Statically Typed, 
+                                  Symmetric Multimethod Dispatch
+      :speakers: Guy L. Steele, Jr.
+      :id: "2715"
+  - :time: 2:05 - 3:05
+    :sessions: 
+    - :speaker_ids: 
+      - 1799
+      :track: Cloud
+      :abstract: |-
+        <p>
+        Google App Engine is a framework that lets you build web apps on top of Google's scalable hosting and data storage infrastructure. When you start building an app on App Engine, you soon realize that you do things differently from the way you made apps for more &quot;traditional&quot; hosting setups, because of our scalability-oriented design. In this talk, we'll give an overview of App Engine, and then look at how you would handle things like offline processing, geographic queries, or storing files, and how you would design real world apps like a microblogging service or social network site.
+        </p>
+        <p>
+        <b>Keywords:&nbsp; </b>Google,&nbsp;App Engine, &nbsp;Scalability, Architecture, Data Storage, Cloud
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>Developers who are building App Engine apps or thinking of using
+        App Engine for an upcoming project, and who want to learn how they
+        might architect the backend for their application to work best on top
+        of Google's hosting infrastructure.
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2736
+      :title: Writing Apps the Google-y Way
+      :speakers: Pamela Fox
+      :id: "2736"
+    - :speaker_ids: 
+      - 1613
+      :track: Best Practices
+      :abstract: |-
+        <p>
+        With the advent of new, fast virtual machines and frameworks for both in- and out-of-browser usage, Javascript has stepped into its rightful place as a productive, object-oriented language. More and more, we see full-featured applications being built entirely in this great language. Unfortunately, a lot of the coding habits remain from its humble origin as 'just an html scripting language.' Automated testing is accepted as standard in most other languages, why not in Javascript? 
+        </p>
+        <p>
+        In this talk, we'll look at techniques and tools for testing your Javascript effectively. Just getting the tools set up can be daunting, so we'll spend some time looking at setup. Testing interactions with your HTML can be tricky, so we'll cover tips for effectively interacting with your web pages in your tests. 
+        </p>
+        <p>
+        <b>Keywords: </b>Javascript, Testing, Craftmanship, Best Practice, MS.net, Design
+        </p>
+        <p>
+        <b>Target Audience:</b> Developers who are looking for a jump-start to automated testing in Javascript.
+        </p>
+        <p>
+        &nbsp;
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2650
+      :title: Testing Your Javascript
+      :speakers: Corey Haines
+      :id: "2650"
+    - :speaker_ids: 
+      - 1687
+      :track: Languages & Concurrency
+      :abstract: |-
+        <p>
+        Erlang is a programming language designed for the Internet Age, although it pre-dates the Web. It is a language designed for multi-core computers, although it pre-dates them too. It is a &quot;beacon language&quot;, to quote Haskell guru Simon Peyton-Jones, in that it more clearly than any other language demonstrates the benefits of concurrency-oriented programming. In this talk, I will try to show how learning Erlang will make you a better programmer. 
+        </p>
+        <p>
+        <b>Keywords: </b>Erlang, Concurrency, Scalability, Fault-tolerance, Architecture 
+        </p>
+        <p>
+        <b>Target Audience:</b> Programmers, architects, technology decision makers 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2595
+      :title: |-
+        Erlang Warps Your Mind: Concurrency-
+                                  Oriented Programming
+      :speakers: Ulf Wiger
+      :id: "2595"
+  - :time: 3:05 - 3:20
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Afternoon Tea
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Afternoon Tea
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 3:20 - 4:20
+    :sessions: 
+    - :speaker_ids: 
+      - 1659
+      :track: Cloud
+      :abstract: |-
+        <p>
+        The misnamed &quot;NoSQL&quot; movement is less of a rejection of the relational technology that has served us well for 40 years, but rather an embrace of persistence technologies that help us solve problems not well addressed by the classic RDBMS. This talk will provide an overview of the &quot;NoSQL&quot; landscape and in addition, describe both the technology behind and a significant deployment example of Neo4J, a graph-oriented alternative data store. 
+        </p>
+        <p>
+        <b>Keywords</b>: Neo4J, Graph DB, NoSQL, Java, DataBase 
+        </p>
+        <p>
+        <b>Target Audience</b>: Developers interested in alternative database solutions in general or specifically graph databases. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2649
+      :title: |-
+        Not Only SQL: Alternative 
+                                  Data Persistence and Neo4J
+      :speakers: Emil Eifrem
+      :id: "2649"
+    - :speaker_ids: 
+      - 1658
+      :track: Best Practices
+      :abstract: |-
+        <p>
+        As software development leaders, we need to think more strategically. Some design decisions affect the trajectory of the whole project or even the organization. These decisions arise in early chartering and throughout development, and they are about much more than architecture. This talk will examine these issues through the lens of the Strategic Design principles of domain-driven design (DDD), which systematize a few critical practices some successful teams do intuitively. <br />
+        <br />
+        It is common for skilled teams to deliver software they are not proud of, due to compromises with legacy designs. Others toil for years, producing a platform that is never used to good advantage. These are strategic failures. On the other hand, there are projects with a direct explanation of how the software contributes to business goals. There are projects where designers work with a realistic view of the context of their development within the larger system, allowing them to maintain design clarity and integrity. These are strategic successes. Winning strategy starts with the domain. <br />
+        <br />
+        Two DDD principles, &quot;Context Mapping&quot; and &quot;Distilling the Core Domain&quot;, help you see your strategic situation more clearly and approach strategic design decisions more systematically. These techniques require extensive interaction with domain experts as well as the leaders of the organization, in discussions broader than functional requirements. They sometimes lead to priorities quite different from our most comfortable notions. <br />
+        <b><br />
+        Keywords:</b> DDD, Architecture, Modeling, Design, Legacy Systems
+        </p>
+        <p>
+        <strong>Target Audience: </strong>Development Executives, Managers, Leads, Architects
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2637
+      :title: |-
+        Strategic Design: Avoiding 
+                                  Responsibility Traps
+      :speakers: Eric Evans
+      :id: "2637"
+    - :speaker_ids: 
+      - 1803
+      :track: Languages & Concurrency
+      :abstract: |-
+        <p>
+        People have been talking about &quot;scaling&quot; and &quot;distributed systems&quot; a 
+        great deal lately.  We need to clarify the meaning of these terms in 
+        order to have a worthwhile conversation about them.  We will do so by 
+        discussing the details of how to actually produce practical, scalable, 
+        distributed systems.
+        </p>
+        <p>
+        That discussion will focus on methods for designing and building 
+        robust fundamentally-concurrent distributed systems.  These approaches 
+        have been learned through building user-facing web applications, data 
+        storage and processing systems, and server management tools.  We will 
+        look at practices that are &quot;common knowledge&quot; but too often forgotten, 
+        at lessons that the software industry at large has somehow missed, and 
+        at general &quot;good practices&quot; and rules that must be thrown away when 
+        moving into a distributed and concurrent world.
+        </p>
+        <p>
+        <b>Keywords</b>: distributed systems, scaling, concurrency, web, architecture
+        </p>
+        <p>
+        <b>Target Audience</b>: programmers and system designers
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2749
+      :title: Embracing Concurrency At Scale
+      :speakers: Justin Sheehy
+      :id: "2749"
+  - :time: 4:25 - 5:25
+    :sessions: 
+    - :speaker_ids: 
+      - 1802
+      :track: Cloud
+      :abstract: |-
+        <p>
+        Google is known to operate one of the largest civilian computing infrastructures. These hardware resources are managed by a vast collection of software frameworks and tools, which form the basis for highly parallelized, reliable, low-latency, high-throughput applications. They also provide useful programming abstractions that speed up development and debugging. Some parts of this infrastructure, such as MapReduce, GFS, Sawzall, Chubby, Protocol Buffers, are available as open source projects or published in academic papers, while others are proprietary. Rather than dive into the dark corners of each of these tools, this talk tries to distill key design themes 
+        and patterns, which enable these unique capabilities, and can be re-used in other contexts.
+        </p>
+        <p>
+        <b>Keywords:&nbsp; </b>Cloud 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2753
+      :title: |-
+        Distributed Programming 
+                                  the Google Way
+      :speakers: Gregor Hophe
+      :id: "2753"
+    - :speaker_ids: 
+      - 1557
+      :track: Best Practices
+      :abstract: |-
+        <p>
+        In this tutorial, you will learn how to create applications that survive the rigors of life in production. Too often, project teams aim to pass QA instead of aiming&nbsp;for success in production. Testing is not enough to prove that your software is ready for continuous availability in the corrosive environment of the Internet. 
+        </p>
+        <p>
+        During this tutorial, you will receive an understanding of the architecture and design patterns that can produce high availability in distributed, multithreaded&nbsp;systems such as those based on Java EE, .Net, or Ruby on Rails. You will also learn about the antipatterns that can sabotage your systems availability and&nbsp;capacity. <b></b>
+        </p>
+        <p>
+        <b>Keywords:</b> Architecture, Enterprise, Operations, Production, Deployment, Scalability, Configuration Management <b></b>
+        </p>
+        <p>
+        <b>Target Audience:</b> Experienced developers and architects working with web applications or service-oriented architectures. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2623
+      :title: |-
+        Release It! Design and Deploy 
+                                  Production-Ready Software
+      :speakers: Michael T. Nygard
+      :id: "2623"
+    - :speaker_ids: 
+      - 1801
+      :track: Languages & Concurrency
+      :abstract: |-
+        <p>
+        Erlang is a programming language which has been picking up steam the last few years, in particular in domains that require a lot of coordination in the application logic.  The language supports a simple and consistent set of features for writing concurrent distributed systems.
+        </p>
+        <p>
+        Over the last few years, I have been meeting &quot;Erlang people&quot; more and more often, and I have been getting the impression that they have a magical ability to reason intuitively about concurrent systems in a way that I have not. It corresponds somewhat to the way we &quot;object heads&quot; think intuitively about classes and objects - just in terms of processes. That bothered me, so I wanted to learn Erlang.
+        </p>
+        <p>
+        Being a language implementor, the most obvious way to do that is to just go ahead and implement an Erlang VM, right?  The result of this &quot;little exercise&quot; is Erjang, an open-source JVM-based Erlang VM. It has turned into a non-trivial project, Erjang is now +50k lines of Java code, and it runs substantial erlang programs.
+        </p>
+        <p>
+        This adventure to Erlang-land have taught me many things about how &quot;Erlang people&quot; think.  I am beginning to understand how they think in processes/actors, how they model things and how they handle the complexity that arises in concurrent systems.
+        </p>
+        <p>
+        In the first part of my talk, I'll go through some of these lessons, some of the aha!'s and the insights into Erlang's secret sauce, and present some of the patterns Erlang'ers use to describe and model systems.
+        </p>
+        <p>
+        Secondly, I'll take you through some of the highlights of the Erjang VM; which is just another angle at describing how Erlang and Java differs.
+        </p>
+        <p>
+        <b>Keywords:</b> Erlang, JVM, Concurrency, Scalability, Alternative languages
+        <b>
+        </b>
+        </p>
+        <p>
+        <b>Target Audience:</b> Java developers (preferrably ones that have felt the pain of concurrency)
+        </p>
+        <p>
+        &nbsp;
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2750
+      :title: |-
+        Domain Modeling with Processes -
+                                  Adventures of an "object head" 
+                                  in Erlang land
+      :speakers: Kresten Krab Thorup
+      :id: "2750"
+  - :time: 5:25 - 6:00
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Break
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Break
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 6:00 - 7:15
+    :sessions: 
+    - :speaker_ids: 
+      - 1616
+      - 1617
+      :track: Keynote Address
+      :abstract: |-
+        <p>
+        Languages - what's to learn from them? Relics of the past; we know how to design them / to use them. Types / messages / invocation / loops / numbers / methods / big ol' libraries / lots of = signs. Heh, but what is programming, and what role do programming languages play in that process? We have learned a lot over the last five decades: organizing principles, established conventions, theory, fashions, and fads. &quot;Those who cannot remember the past are condemned to repeat it.&quot; In this talk we survey what we think are the most important lessons of the past that future programmers, and future programming language designers, ought not forget. We illustrate each lesson by discussing specific programming languages of the past, and endeavor to shine what light we can on the future. 
+        </p>
+        <p>
+        <b>Keywords: </b>Languages, a cirque du soleil of technical talks, Patterns, Design 
+        </p>
+        <p>
+        <b>Target Audience:</b>&nbsp;People not afraid of finding out just how weird our predecessors were and who enjoy theater style. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2596
+      :title: 50 in 50
+      :speakers: Keynote AddressGuy Steele  Richard Gabriel
+      :id: "2596"
+  - :time: 7:30 - 9:30
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Reception
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Reception
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+- - :time: 8:30 - 9:00
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Welcome
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: ""
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 9:00 - 10:00
+    :sessions: 
+    - :speaker_ids: 
+      - 1635
+      :track: Keynote Address
+      :abstract: |-
+        <p>
+        In his hunt to make all data accessible, Erik has caught sight of noSQL. 
+        </p>
+        <p>
+        <b>Keywords:</b> C#, LINQ, NoSQL, Web 2.0, Enterprise Computing, Cloud, MS.net
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2751
+      :title: title.regex = "* noSQL *"
+      :speakers: Erik Meijer
+      :id: "2751"
+  - :time: 10:00 - 10:15
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Morning Tea
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Morning Tea
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: "10:15 - 11:15\n                        \xC2\xA0"
+    :sessions: 
+    - :speaker_ids: 
+      - 1692
+      :track: Web 2.0 REST
+      :abstract: |-
+        <p>
+        REST is ready for the enterprise. Imagine an information platform that is open and available to systems throughout the enterprise estate. A platform that eschews integration in favour of composition, connected data over siloed databases. A networked data structure with the power to implement valuable business behaviours: a distributed, hypermedia-driven application platform.
+        Using techniques drawn from the forthcoming O'Reilly book 'REST in Practice', in this session I show how to model business processes as domain application protocols, implement them in terms of resource lifecycles, and execute them using HTTP idioms, media types and link relation values.
+        </p>
+        <p>
+        Keywords: Best Practices, REST, Web 2.0, Architecture, Design 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2739
+      :title: |-
+        Designing and Implementing 
+                                  RESTful Application Protocols
+      :speakers: Ian Robinson
+      :id: "2739"
+    - :speaker_ids: 
+      - 1686
+      :track: Mobile
+      :abstract: |-
+        <p>
+        Windows Phone 7 puts in your pocket powerful hardware and APIs familiar to .NET developers. In spite of these similarities the intrinsic differences between the phone and traditional PCs translate into differences between effective mobile and traditional code. In this talk I will cover some of the most interesting aspects of developing Windows Phone 7 applications. Understanding these the differences allows developers to leverage the phone's capabilities (such as the sensors) as well as managing the challenges of a mobile platform (such as the battery). 
+        </p>
+        <p>
+        <strong>Keywords: </strong>.NET, Mobile 
+        </p>
+        <p>
+        <strong>Target Audience: </strong>Mobile application developers, Developers with interest in mobile application development
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2645
+      :title: Building   Windows Phone 7 Applications
+      :speakers: Dragos Manolescu
+      :id: "2645"
+    - :speaker_ids: 
+      - 1611
+      :track: Tools
+      :abstract: |-
+        <p>
+        The internet has fundamentally changed the software development profession, but development tools and processes have struggled to keep pace. Learn how the internet and internet technologies like REST, linked data and RDF can be used to develop a breed of software development tools that are better adapted to development in the internet age and can solve a set of perennial problems that have limited the effectiveness of end-to-end development tool suites. 
+        </p>
+        <p>
+        <b>Keywords:</b> REST, Linked Open Data, RDF, SPARQL, Tools
+        </p>
+        <p>
+        <b>Target Audience:</b> Developers, Development Managers
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2635
+      :title: |-
+        Leveraging Internet Technologies 
+                                  to Build a New Breed of Software 
+                                  Development Tools
+      :speakers: Martin Nally
+      :id: "2635"
+  - :time: "11:20 - 12:20\n                        \xC2\xA0 "
+    :sessions: 
+    - :speaker_ids: 
+      - 1688
+      :track: Web 2.0 REST
+      :abstract: |-
+        <p>
+        This session explores using commodity HTTP middleware in building REST-ish systems at large scale using agile and devops-friendly techniques. Attendees will learn the architectural and cost fallacies of traditional middleware and see how F/OSS solutions can be used to delivery massive scalable solutions. The talk will cover two case studies building real systems in production and compare them with the cost/benefits of using vendor-proprietary middleware, which sadly makes the vendors look like an expensive and risky option!<br />
+        <br />
+        <b>Keywords</b>: Case Study, Enterprise, Scalability, Agile, Devops, SOA, Best Practices, Cloud
+        </p>
+        <p>
+        <b>Target Audience</b>: Architects or developers with an interest in large-scale distributed systems and decision makers who want to understand the cost benefits of HTTP-centric systems versus middleware-based systems 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2638
+      :title: |-
+        Lessons Learned in Large 
+                                  HTTP-Centric Systems
+      :speakers: Jim Webber
+      :id: "2638"
+    - :speaker_ids: 
+      - 1851
+      - 1850
+      :track: Mobile
+      :abstract: |-
+        <p>
+        In response to our more recent YOW! Night on mobile platforms we are pleased to add a workshop on mobile application development for Android and iPhone so that developers will have the opportunity to dig deep into development for these 2 hot platforms.
+        </p>
+        <p>
+        Details will be posted shorty.
+        </p>
+        <p>
+        <b>Keywords:&nbsp; </b>Mobile 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2752
+      :title: |-
+        Developing Commercial Apps 
+                                  for Android and iPhone
+      :speakers: Daniel Bradby Nathan de Vries
+      :id: "2752"
+    - :speaker_ids: 
+      - 1796
+      :track: Tools
+      :abstract: |-
+        <p>
+        Continuous Integration is great but what happens when your builds get out of control? What happens when you have too many build plans, that
+        take way too long to execute? How do you keep a handle on growing complexity and how do you measure and control build reliability? How
+        do you stop builds growing into a rampaging monster and running amok destroying the city with its death rays and bullet-proof teeth?
+        </p>
+        <p>
+        As the number of features, tests, supported platforms and the number of developers and customers grows, there comes a time when you need
+        serious engineering in your build if you want any hope of staying Agile.
+        </p>
+        <p>
+        In this presenation you will learn how to tame the monsters hiding in your builds, hopefully before they get out of control.
+        </p>
+        <p>
+        <b>Keywords:</b> Build, Continuous Integration, Unit Testing, Automation, Cloud Testing, Development Velocity, Tools
+        </p>
+        <p>
+        <b>Target Audience:&nbsp;</b> Development team members, team leaders and build specialists, primarily those who want the benefits of continuous integration to scale with their project.
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2740
+      :title: Monster Builds (and how to tame them)
+      :speakers: Chris Mountford
+      :id: "2740"
+  - :time: 12:20 - 1:00
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Lunch
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Lunch
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: "1:00 - 2:00 "
+    :sessions: 
+    - :speaker_ids: 
+      - 1707
+      - 1708
+      :track: Interaction & Visualization
+      :abstract: |-
+        <p>
+        As a provider of hearing solutions to hearing impaired people for almost 30 years, Cochlear is renowned worldwide as a technical innovator and as a great Australian success story. We share the story of our journey with Agile software development in an environment that is traditionally not comfortable with it. More compellingly we cover the emergence of user experience and user centered design and how it has integrated into almost every aspect of the product development and delivery cycle. 
+        </p>
+        <p>
+        <b>Keywords:</b> Agile, UX, User Experience, User Centered Design, Regulations
+        </p>
+        <p>
+        <b>Target Audience:</b> Developers, Managers, Thought Leaders, User Experience Architects
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2648
+      :title: |-
+        The Emergence   of UX 
+                                  in an Agile World
+      :speakers: |-
+        Victor Rodriguez
+                                Xerxes Battiwalla
+      :id: "2648"
+    - :speaker_ids: 
+      - 1612
+      :track: Best Practices
+      :abstract: |-
+        <p>
+        This session describes the current thinking about <i>emergent</i> design, discovering design in code. The hazard of Big Design Up Front in software is that you don't yet know what you don't know, and design decisions made too early are just speculations without facts. Emergent design techniques allow you to wait until the last responsible moment to make design decisions. This talk covers four areas: emergent design enablers, battling things that make emergent design hard, finding 
+        idiomatic patterns, and how to leverage the patterns you find. It includes both proactive (test-driven development) and reactive (refactoring, metrics, visualizations, tests) approaches to discovering design, and discusses the use of custom attributes, DSLs, and other techniques for utilizing them. The goal of this talk is to provide nomenclature, strategies, and techniques for allowing <i>design</i> to emerge from projects as they proceed, keeping your code in sync with the problem domain.
+        </p>
+        <p>
+        Keywords: Best Practices, Architecture, Design, Craftmanship, Agile
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2754
+      :title: Emergent Design
+      :speakers: Neal Ford
+      :id: "2754"
+    - :speaker_ids: 
+      - 1557
+      :track: Development Ops
+      :abstract: |-
+        <p>
+        There's nothing like a crisis to remove artificial barriers. In thissession, Michael will present an experience report about development and operations coming together after a failed launch. Aside from the funof sharing war stories and comparing scars, what can we learn about climbing out of a crater after the worst has already happened? Can we capture the special magic of a firefighting mission during more sedate times? Beyond all of that, come find out how to stay out of the crater to begin with. 
+        </p>
+        <p>
+        <b>Keywords:</b> Development Operations, Velocity, Disaster, Crisis, Organization, Architecture, Best Practices
+        </p>
+        <p>
+        <b>Target Audience:</b> Developers, Managers, Architects
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2628
+      :title: |-
+        When the Fur   Flies: Dev and 
+                                  Ops 
+                                  Cooperation when the Worst Happens
+      :speakers: Michael T. Nygard
+      :id: "2628"
+  - :time: 2:05 - 3:05
+    :sessions: 
+    - :speaker_ids: 
+      - 1668
+      :track: Interaction & Visualization
+      :abstract: |-
+        <p>
+        The Web has never been more open to everyone. Open Data services exist in almost every web application: from social networking apps to governmental pages and the news, all this data can be instantly accessed by exposed APIs. However, although most of this data is offered in a simple interchange format, its structures are quite complex, ranging from complex networks to time-based information, hierarchical data or heavy graphs. Displaying this data in a manner that enables the viewer to gain some insight can be challenging, especially if we aim at providing some interaction and doing it in a cross-browser/cross-device manner. The JavaScript InfoVis Toolkit creates interactive data visualizations for the Web. It's based solely on Web Standards, leveraging the power of native browser technologies to provide insights on complex data. In this talk you will learn about the JavaScript InfoVis Toolkit and how it can help you create advanced data visualizations for the Web. 
+        </p>
+        <p>
+        <b>Keywords:</b> JavaScript, Visualization, InfoVis, DataVis, Visual Web 
+        </p>
+        <p>
+        <b>Target Audience:</b>&nbsp;People wanting to create data visualizations for the web using&nbsp;major browsers and platforms. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2640
+      :title: |-
+        Creating   Interactive Data 
+                                  Visualizations 
+                                  for the Web 
+                                  with the JavaScript InfoVis Toolkit   2.0
+      :speakers: "Nicol\xC3\xA1s Garc\xC3\xADa Belmonte"
+      :id: "2640"
+    - :speaker_ids: 
+      - 1614
+      :track: Lean Software Management
+      :abstract: |-
+        <p>
+        Henry Ford changed the world through the manufacturing machinery he created over 100 years ago. Separating 'thinking' from 'doing', Mr Ford defined a management archetype for large western organisations that still persists over a century later. But as we move to an information age at break-neck speed, does command &amp; control management still look as compelling?<br />
+        <br />
+        In this presentation, Richard will discuss the history of management science and how management techniques affect the performance of technology teams and IT divisions.&nbsp;He&nbsp;will demonstrate the fundamental differences between today's two prevalent management theories: Scientific Management Theory and Systems Management Theory. He will explore the&nbsp;foundations of management theory in philosophical thought, the development of management models through political and military leadership, and ultimately the application of management concepts in today's information age. Richard will investigate a number of case studies from IT and beyond, presenting empirical evidence that demonstrates a change in management philosophy can directly affect business results. This presentation is a must for anyone interested in or involved in enterprise level Agile adoption or simply with an interest in hearing more on 'Lean &amp; Systems Thinking' from an experienced practitioner. 
+        </p>
+        <p>
+        <b>Keywords:</b>&nbsp; Lean Thinking, Systems Thinking, Agile Coaching, Transformation, Adoption, Change Management, Management Theory 
+        </p>
+        <p>
+        <strong>Target Audience:&nbsp; </strong>Engineers with an interest in how management theory can directly affect developer and team productivity; IT leaders interested in changing the command &amp; control structure of their organisations in the pursuit of improved results; Coaches and change managers interested in introducing new tools and concepts to help deal with organisational change and adoption issues; Anyone interested in learning more about lean and systems thinking. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2597
+      :title: |-
+        Management   2.0: Leadership Models 
+                                  for an Information Age
+      :speakers: Richard Durnall
+      :id: "2597"
+    - :speaker_ids: 
+      - 1685
+      :track: Scaling
+      :abstract: |-
+        <div>
+        <p>
+        Conventional wisdom says that memory is fast, disk is slow, networks are slower and that fast systems must be highly concurrent to achieve maximum performance. Much of this is outdated and some of it is now wrong. Modern hardware is phenomenally fast, but we have become complacent and use it in extremely inefficient and inappropriate ways. 
+        </p>
+        <p>
+        For world class performance on commodity hardware you need to take a holistic approach to software design. The good news is that all the stuff we learned in computer science 101 is what really matters, choose your data structures carefully, model your domain, understand your platform, work hard to have a clear separation of concerns, but as well as all of that, run your business logic on a single thread!? 
+        </p>
+        <p>
+        <b>Keywords: </b>High-Performance Computing, Java, Trading Systems, Concurrency, Low-Latency 
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>Developers interested in how to stretch the boundaries of what is possible on modern hardware 
+        </p>
+        </div>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2601
+      :title: |-
+        LMAX: How to do over 100K contended 
+                                  complex business transactions per second
+                                  at less than 1ms latency
+      :speakers: Dave Farley
+      :id: "2601"
+  - :time: 3:05 - 3:20
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Afternoon Tea
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Afternoon Tea
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+  - :time: 3:20 - 4:20
+    :sessions: 
+    - :speaker_ids: 
+      - 1669
+      :track: Interaction & Visualization
+      :abstract: |-
+        <p>
+        The ability to collect and store data continues to increase, but our ability to understand it remains unchanged. Data visualization makes use of our evolutionary proclivity for decoding visual images and employs this ability as a high-bandwidth means of getting data into our heads. In this talk, I'll present work I've developed ranging from illustrations of data for magazines and journals to software tools used by geneticists to interactive applications for Fortune 10 companies.
+        </p>
+        <p>
+        <b>Keywords:</b> Design, Visualization, Information Design, Processing.org, Java, Visual Web
+        </p>
+        <p>
+        <b>Target Audience:</b>  Anyone interested in understanding the mess of data around us.
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2647
+      :title: Computational   Information Design
+      :speakers: Ben Fry
+      :id: "2647"
+    - :speaker_ids: 
+      - 1696
+      :track: Lean Software Management
+      :abstract: |-
+        <p>
+        How much does it matter that we're good at delivering if it turns out we're working on the wrong things? &nbsp;Let's explore a way to think not just about individual projects, but rather the project delivery system (i.e., how projects are delivered in general). &nbsp;You will learn concepts and simple techniques for aligning a work portfolio to a common strategy, determining a strategy if it doesn't exist, and linking all of this to efforts to improve throughput. 
+        </p>
+        <p>
+        <b>Keywords:</b> Process, Portfolio Management, Strategy Alignment, Lean, Agile
+        </p>
+        <p>
+        <b>Target Audience:&nbsp; </b>People who are interested in improvement across projects, not just single projects. 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2619
+      :title: |-
+        Row Together,   Row in the Right 
+                                  Direction, 
+                                  Row Faster: Improving alignment and 
+                                  throughput in   software development
+      :speakers: Jason Yip
+      :id: "2619"
+    - :speaker_ids: 
+      - 1661
+      :track: Scaling
+      :abstract: |-
+        <p>
+        We are building the same types of systems as we built yesterday,
+        the demands placed on our systems becomes more and more demanding. We
+        need to handle more users, offer more intelligent behavior, provide
+        different behavior for differenet clients, parallelize both development
+        and deployment, handle partial failures in our applications, offer the
+        operations team rich insight into our systems and the ability to tweak
+        them at runtime and so much more.
+        </p>
+        <p>
+        Trying to build such application using the standard
+        N-tiered architecture has proven to be hard, challenging and complex.
+        In this session, you will learn how changing some of the underlying
+        architectural concepts in how we build applications can lead to simpler
+        solutions that scale extremely well. Those concepts include divide and
+        conquer, background evaluation, one way messaging and ruthless
+        application of the single responsibility principle. We will cover the
+        full gamot, from building dynamic data models to customizing behaviors
+        and adaptable user interface.<b></b>
+        </p>
+        <p>
+        <b>Keywords:</b> Scaling, Multi Tenancy, ESB, DataBase, SOA, MS.Net
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2653
+      :title: |-
+        Scaling   Applications: Complexity, 
+                                  Performance, Maintainability, 
+                                  Multi-Tenancy
+      :speakers: Oren Eini
+      :id: "2653"
+  - :time: 4:25 - 5:25
+    :sessions: 
+    - :speaker_ids: 
+      - 1795
+      :track: Interaction & Visualization
+      :abstract: |-
+        <p>
+        Dan Ingalls has had the good fortune to create, or at least to assist at
+        the birth of, a number of core technologies that we take for granted 
+        these days. In this talk he will present these from several 
+        perspectives: the forces that brought them forth, the qualities that 
+        give them power, and the liveliness that makes them all fun to this day.
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2738
+      :title: Forty Years   of Fun with Computers
+      :speakers: Dan Ingalls
+      :id: "2738"
+    - :speaker_ids: 
+      - 1615
+      :track: Lean Software Management
+      :abstract: |-
+        <p>
+        Pull means a lot of things to a lot of people: 
+        </p>
+        <ul>
+        	<li>Pull = Pursuing Passion </li>
+        	<li>Pull = Putting Customers First </li>
+        	<li>Pull = Producing Based on Demand </li>
+        </ul>
+        <p>
+        These definitions of pull have something in common; they all contain a strong element of observation, orientation, decision, and action &ndash; the OODA loop. As the pace of business increases and unexpected events become common, pull becomes like an increasingly attractive alternative to push. 
+        </p>
+        <p>
+        The problem is, pull doesn't work without preparation. Pull requires an environment that sends the correct signals, methods to rapidly detect the right patterns, and people who have the skills and training to make the right decisions. So the real challenge of pull is creating the environment, devising the patterns, and developing the people that ensure the right decisions are made and rapidly carried out, no matter what situation presents itself. 
+        </p>
+        <p>
+        <b>Keywords: </b>Pull, Push, Passion, OODA, Customer, Demand, Uncertainty, Agile, Lean, Management
+        </p>
+        <p>
+        <b>Target Audience:</b> Team Leads, Managers
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2599
+      :title: What is This   Thing Called "Pull"?
+      :speakers: Mary Poppendieck
+      :id: "2599"
+    - :speaker_ids: 
+      - 1738
+      :track: Scaling
+      :abstract: |-
+        <p>
+        Building scalable, highly-available applications that perform well is not an easy task. These features cannot be simply &ldquo;bolted&rdquo; onto an existing application &ndash; they have to be 
+        architected into it. Unfortunately, the things we need to do to achieve them are often in conflict with each other, and finding the right balance is crucial.
+        </p>
+        <p>
+        In this session we will discuss why scaling web applications is difficult and will look at some of solutions we have come up with in the past to deal with the issues involved. We will then look 
+        at how in-memory data grids can make our jobs easier by providing a solid architectural foundation to build our applications on top of.
+        </p>
+        <p>
+        If you are new to in-memory data grids, you are guaranteed to leave the presentation eager to learn more. However, even if you are already using one you will likely walk out with a few ideas on 
+        how to improve performance and scalability of your applications.
+        </p>
+        <p>
+        Keywords: Best Practices, Database, Enterprise Computing 
+        </p>
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/event_details.html?eventId=2656
+      :title: |-
+        Performance   and Scalability 
+                                  Revisited: In-Memory Data Grids
+      :speakers: Brian Oliver
+      :id: "2656"
+  - :time: 5:30...
+    :sessions: 
+    - :speaker_ids: []
+
+      :track: Farewell Drinks
+      :abstract: 
+      :link: http://yowaustralia.com.au/melbourne/events_tracks/
+      :title: ""
+      :speakers: Farewell Drinks
+      :id: http://yowaustralia.com.au/melbourne/events_tracks/
+:speakers: 
+  1798: 
+    name: Josh Graham
+    company: Chief Dispenser of Pleasantries<br /> Hashrocket
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Josh_Graham_Thumbnail.png
+    id: 1798
+    bio: |-
+      <p>
+      Josh Graham is a crazy Aussie with over 20 years experience in the 
+      software industry (as many years as he's been drinking legally).<br />
+      He has spoken at and chaired conferences on SOA, enterprise 
+      architecture, agile software delivery, and technology innovation.<br />
+      After spending time on 5 continents during 2009 for ThoughtWorks and 
+      wanting to &quot;stay at home for a little bit&quot;, Josh opened the Chicago 
+      office of Hashrocket at the beginning of 2010 (although plans to still 
+      visit 5 continents in 2010).<br />
+      Josh organizes <a href="http://speakerconf.com/" target="_blank">speakerconf.</a>
+      You may have met Josh already at a bar.
+      </p>
+      <p>
+      Blog: <a href="http://grahamis.com/blog/">http://grahamis.com/blog/ </a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1688: 
+    name: Jim Webber
+    company: Author of "Developing Enterprise Web Services - An Architect's Guide" and "REST in Practice" <br /> Global Head of Architecture, ThoughtWorks
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/jim webber_thumbnail.jpg
+    id: 1688
+    bio: |-
+      <p>
+      Dr. Jim Webber is the Global Head of Architecture for ThoughtWorks where
+      he works with clients on delivering dependable service-oriented 
+      systems. Jim was formerly a senior researcher with the UK E-Science 
+      programme where he developed strategies for aligning Grid computing with
+      Web Services practices and architectural patterns for dependable 
+      Service-Oriented computing. Jim has extensive Web Services architecture 
+      and development experience as an architect with Arjuna Technologies and 
+      was the lead developer with Hewlett-Packard on the industry's first Web 
+      Services Transaction solution.&nbsp;
+      </p>
+      <p>
+      Jim is an active speaker in the Web Services space and is co-author of 
+      the book &quot;Developing Enterprise Web Services - An Architect's Guide&quot; in 
+      addition to being a contributing author to other books and articles.&nbsp;
+      </p>
+      <p>
+      Jim holds a B.Sc. in Computing Science and Ph.D. in Parallel Computing 
+      both from the University of Newcastle upon Tyne.<b></b>
+      </p>
+      <p>
+      <b>Software passion:</b> Connecting the world's systems, sharing the 
+      world's data, bringing sanity to software.
+      <b></b>
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Website: <a href="http://jim.webber.name/" target="_blank">http://jim.webber.name/ </a>
+      </p>
+      <p>
+      Twitter: jimwebber 
+      </p>
+      <p>
+      Blog:<b> </b><a href="http://jim.webber.name/" target="_blank">http://jim.webber.name/ </a>
+      </p>
+      <p>
+      Books: <a href="http://www.amazon.com/Developing-Enterprise-Web-Services-Architects/dp/0131401602" title="Developing Enterprise Web Services - An Architect's Guide">Developing Enterprise Web Services - An Architect's Guide</a> <a href="http://oreilly.com/catalog/9781449383169/" title="REST in Practice">REST in Practice </a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+      <p>
+      <br />
+      <a href="http://oreilly.com/catalog/9781449383169/" title="REST in Practice"></a>
+      </p>
+  1611: 
+    name: Martin Nally
+    company: Long-time developer of software development tools <br /> IBM Fellow, IBM Rational CTO
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Martin Nally_thumbnail.jpg
+    id: 1611
+    bio: |-
+      <p>
+      Martin Nally is the Chief Technology Officer for the Rational Software division of IBM and an IBM Fellow. Martin joined IBM in 1990 with 10 years prior industry experience. He has held several architecture and development positions in IBM including lead architect and developer for IBM VisualAge/Smalltalk and VisualAge/Java. Martin was one of a team of three that launched the IBM project that later became the Eclipse framework and he led the architecture, design and development of WebSphere Studio, IBM's flagship Eclipse-based developer tool-suite that later evolved into Rational Application Developer. He was chief architect for Rational before becoming CTO.
+      </p>
+      <p>
+      <b>Software Passion:</b>&nbsp; My passion is finding simpler software solutions. Complex things take
+      too long to build and are too hard to change - the world is too dynamic
+      for complex solutions
+      </p>
+  1556: 
+    name: Rod Johnson
+    company: <b>Keynote Speaker</b><br />Creator of Spring<br />Author of "Expert One-on-One J2EE Development without EJB"<br /> GM  SpringSource Division, VMware
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/rod_johnson_thumbnail.png
+    id: 1556
+    bio: |-
+      <p>
+      Rod is SVP, Middleware and GM of the SpringSource division at VMware. He is a thought leader on open source, as well as a popular speaker at conferences and symposia around the world. Spring was based on the code published with Rod's best-selling Expert One-on-One J2EE Design and Development (2002). This book was one of the most influential books ever published on J2EE and the sequel, J2EE without EJB (July 2004, with Juergen Hoeller), has proven almost equally significant, establishing a comprehensive vision for lightweight, post-EJB J2EE development.
+      </p>
+      <p>
+      Rod has specialized in server-side Java since 1996 across a wide range of industries. His hands-on experience has led him to see problems from a client's perspective as well as a technology perspective, and has driven his influential criticism of bloated, inefficient, orthodox approaches to J2EE architecture.
+      </p>
+      <p>
+      Rod is a member of the Java Community Process (JCP) Executive Committee (EC). EC members guide the evolution of the Java technologies by approving and voting on all technology proposals. They are also responsible for defining the JCP's rules of governance and the legal agreement between members and the organization.
+      </p>
+      <p>
+      Rod holds a BA with Honors in Computer Science, Mathematics and Musicology as well as a Phd from the University of Sydney.
+      </p>
+      <p>
+      Rod is SVP, Middleware and GM of the SpringSource division at VMware.
+      </p>
+      <p>
+      <b>Software Passion: </b>Innovation. Pragmatism. New challenges.&nbsp; 
+      </p>
+      <p>
+      <b>Links:</b> 
+      </p>
+      <p>
+      Website:  <a href="http://www.springsource.com/" target="_blank">http://www.springsource.com</a>
+      </p>
+      <p>
+      Twitter: <a href="http://twitter.com/springrod" target="_blank">@springrod</a>
+      </p>
+      <p>
+      Blog: <a href="http://blog.springsource.com/author/rodj/" target="_blank">http://blog.springsource.com/author/rodj/</a>
+      </p>
+      <p>
+      Books: <a href="http://www.amazon.com/Expert-One---One-Development-without/dp/0764558315/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1282847404&amp;sr=1-1" title="Expert One-on-One J2EE Development without EJB">Expert One-on-One J2EE Development without EJB</a><a href="http://www.springsource.com/" target="_blank"></a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+      <b></b>
+  1738: 
+    name: Brian Oliver
+    company: Scaling Solutions Expert <br /> Global Solutions Architect, Oracle Coherence Engineering
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/brian_oliver_thumbnail.png
+    id: 1738
+    bio: |-
+      <p>
+      Brian Oliver is a Global Solutions Architect at Oracle.  He works 
+      within the Oracle Coherence Engineering group and predominantly focuses 
+      on enabling financial institutions across Europe and North America to 
+      implement massively scalable and high-performance Data Grid solutions.
+      </p>
+      <p>
+      Over the past 10 years he has been leading the development of 
+      large-scale multi-language and multi-currency Web, E-Commerce, Sports 
+      Gaming and Financial systems making extensive use of Java technologies. 
+      He's the founder of the Coherence SIG, probably the only regularly 
+      meeting Data Grid Special Interest Group in the world, and the Coherence
+      Incubator, a site dedicated to providing reference implementations of 
+      architectural patterns on top of Oracle Coherence.
+      </p>
+      <p>
+      He's been using Java since 1996.  He opens an IDE every couple of 
+      days to cook up new solutions.  On alternate days he's in the air 
+      traveling around Europe and North America talking about Data Grids.
+      </p>
+      <p>
+      <b>Links:&nbsp; </b>
+      </p>
+      <p>
+      Blog: <a href="http://brianoliver.wordpress.com/">http://brianoliver.wordpress.com/</a>
+      </p>
+      <p>
+      Presentations: <a href="http://www.infoq.com/presentations/Data-Grid-Design-Patterns-Brian-Oliver;jsessionid=0252A788EC6B003BE4A5" title="Data Grid Design Patterns">Data Grid Design Patterns</a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1661: 
+    name: Oren Eini
+    company: Wizard of Open Source .Net <br /> Software Wizard at Hibernating Rhinos
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Oren Eini_thumbnail.jpg
+    id: 1661
+    bio: |-
+      <p>
+      Oren Eini is working for Hibernating Rhinos LTD, a Israeli based company producing developer productivity tools for OLTP applications such as NHibernate Profiler (nhprof.com), Linq to SQL Profiler(l2sprof.com), Entity Framework Profiler (efprof.com) and more.<br />
+      <br />
+      Oren's main focus is on architecture and best practices that promote quality software and zero-friction development. Oren is the author of Rhino Mocks, one of the most popular mocking frameworks on the .NET platform, and is also a leading figure in other well known open source projects including the Castle project and NHibernate.<br />
+      <br />
+      An internationally known presenter, Oren has spoken at conferences such as DevTeach, JAOO, QCon, Oredev, NDC and Progressive.NET and is the author of the book &quot;DSLs in Boo: Domain Specific Languages in .NET&quot;, published by Manning. Oren, using his pseudonym as Ayende Rahien, is a frequent blogger at http://www.ayende.com/Blog/.<br />
+      <br />
+      His hobbies include reading fantasy novels, reviewing code, and writing about himself in the third person. Oren is also a Microsoft MVP, a fact that he tends to forget when writing a bio.&nbsp;
+      </p>
+      <p>
+      <b>Software Passion:</b> Reinventing the wheel, in a maintainable form.
+      </p>
+      <p>
+      <b>
+      Links:
+      </b>
+      </p>
+      <p>
+      Website: <a href="http://ayende.com" title="http://ayende.com">http://ayende.com</a>
+      </p>
+      <p>
+      Twitter: @ayende
+      </p>
+      <p>
+      Blog: <a href="http://ayende.com/blog" title="Unnatural acts on source code">Unnatural acts on source code</a> 
+      </p>
+      <p>
+      Books: <a href="http://manning.com/rahien/" title="DSLs in Boo: Domain-Specific Languages in .NET">DSLs in Boo: Domain-Specific Languages in .NET</a> 
+      </p>
+  1617: 
+    name: Richard P. Gabriel
+    company: <b>Keynote Speaker</b><br />Distinguised Engineer IBM Research and Celebrated Philosopher of Software Creativity
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Richard_Gabriel_thumbnail.png
+    id: 1617
+    bio: |-
+      <p>
+      &quot;Richard Gabriel and Guy Steele are beasts in the world of computer 
+      science, and they are creative and witty geeks.&quot;
+      </p>
+      <p>
+      Richard P. Gabriel received a PhD in Computer Science from Stanford University in 1981, and an MFA in Poetry from Warren Wilson College in 1998. He has been a researcher at Stanford University, company president and Chief Technical Officer at Lucid, Inc., vice president of Development at ParcPlace-Digitalk, a management consultant for several startups, a Distinguished Engineer at Sun Microsystems, a Consulting Professor of Computer Science at Stanford University, and lead guitarist for a rock 'n' roll band.
+      He is a Distinguished Engineer at IBM Research, looking into the architecture, design, and implementation of extraordinarily large, self-sustaining systems as well as development techniques for building them. Until recently he was President of the Hillside Group, a nonprofit that nurtures the software patterns community by holding conferences, publishing books, and awarding scholarships. He is on Hillside's Board of Directors.
+      He helped design and implement a variety of dialects of Lisp. He is author of four books (&quot;Performance and Evaluation of Lisp Systems,&quot; MIT Press; &quot;Patterns of Software: Tales from the Software Community,&quot; Oxford University Press; &quot;Writers' Workshops and the Work of Making Things,&quot; Addison-Wesley Press; and &quot;Innovation Happens Elsewhere: Open Source as Business Strategy,&quot; Morgan Kaufmann), and a poetry chapbook (&quot;Drive On,&quot; Hollyridge Press), with two books of poetry in preparation: &quot;Leaf of my Puzzled Desire&quot; and &quot;Drive On.&quot; He has published more than 100 scientific, technical, and semi-popular papers, articles, and essays on computing. He has won several awards, including the AAAI/ACM Allen Newell Award.
+      He is a poet. He lives in California.
+      </p>
+      <p>
+      <b>Software Passion:</b> Passionate about every dirty aspect of software creation 
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Website: <a href="http://www.dreamsongs.com">www.dreamsongs.com</a> 
+      </p>
+      <p>
+      Twitter: @rpg
+      </p>
+      <p>
+      Books: <a href="http://www.amazon.com/Performance-Evaluation-Lisp-Systems-Computer/dp/0262070936" title="Performance and Evaluation of Lisp Systems ">Performance and Evaluation of Lisp Systems</a>&nbsp; <a href="http://www.amazon.com/Patterns-Software-Tales-Community/dp/0195121236" title="Patterns of Software">Patterns of Software</a>&nbsp; <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=innovation+happens+elsewhere&amp;x=13&amp;y=26&amp;ih=14_12_1_0_0_1_0_0_0_1.25_106&amp;fsc=-1" title="Innovation Happens Elsewhere">Innovation Happens Elsewhere</a> <a href="http://www.amazon.com/Writers-Workshops-Work-Making-Things/dp/020172183X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1282847657&amp;sr=1-1" title="Writers' Workshop and the Work of Making Things">Writers' Workshops and the Work of Making Things</a> <a href="http://www.amazon.ca/Drive-Hollyridge-Chapbook-Richard-Gabriel/dp/0975257382" title="Drive on">Drive on</a> 
+      </p>
+  1799: 
+    name: Pamela Fox
+    company: Google API and App Engine Mashup Queen <br />Google, Developer Advocate
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Pamela_Fox_Thumbnail.jpg
+    id: 1799
+    bio: |-
+      <p>
+      Pamela Fox loves to teach other developers how to use Google APIs. She spent her first 3 years at Google supporting the Maps API community and the last year working with the the innovative Wave API community.
+      </p>
+      <p>
+      Before Google, she graduated with her bachelors and masters in Computer Science from the University of Southern California, with minors in 3d animation and linguistics, and research projects in facial animation and LiDAR data visualization.
+      </p>
+      <p>
+      In her free time, she likes to play around with any one of Google's 80+ APIs, make drawings on her new Android phone, and learn the dance steps from pop music videos.
+      </p>
+      <p>
+      <b>Software passion:</b> Teaching people to create things, and creating things that
+      teach people.
+      </p>
+      <p>
+      <b>Website:</b> <a href="http://imagine-it.org/">http://imagine-it.org</a>
+      </p>
+      <p>
+      <b>Twitter:</b> pamelafox 
+      </p>
+      <p>
+      <b>Blog:</b>&nbsp;<a href="http://otherfancystuff.blogspot.com/">http://otherfancystuff.blogspot.com/</a>
+      </p>
+      <a href="http://otherfancystuff.blogspot.com/"></a> 
+      <p>
+      <b>Presentations:</b> <a href="http://www.youtube.com/watch?v=63wHBZWE7dE">http://www.youtube.com/watch?v=63wHBZWE7dE</a><o:p></o:p>
+      </p>
+  1689: 
+    name: Ben Alex
+    company: Creator of Spring Roo and Spring Security <br />Senior Staff Engineer, VMWare SpringSource
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/ben_alex_thumbnail.png
+    id: 1689
+    bio: |-
+      <p>
+      Dr. Ben Alex is a Senior Staff Engineer with VMware (SpringSource Division), and has been working professionally in software since 1995. Ben founded the Spring Security project in 2003 and led its development into a popular, open-source security framework that is used in numerous government, banking and military installations. More recently Ben founded and serves as lead of the Spring Roo and Spring Shell projects, both of which deliver significant productivity and usability benefits to those using Spring technologies.<br />
+      <br />
+      Ben's career history also includes other roles in software development and business. From 2005 until 2008, he led the establishment and exponential growth of SpringSource's operations in Asia-Pacific. Prior to SpringSource, Ben founded and grew a successful Australian software company, Acegi Technology Pty Limited. He has been a director and advisor to businesses in diverse industries including business services, intellectual property licensing and ecommerce.<br />
+      <br />
+      In recent years, Ben has presented at technology conferences including JavaOne, The Server Side Java Symposium, JAOO, &Oslash;redev, Google I/O, SpringOne and The Spring Experience. He is a regular guest presenter at user groups across the world, with recent appearances in Sydney, Melbourne, Brisbane, Canberra, Perth, Singapore, Wellington, Auckland, Christchurch and Stockholm. He also authored the security chapter of the Wiley book, &quot;<a href="http://www.amazon.ca/Professional-Java-Development-Spring-Framework/dp/0764574833" title="Professional J2EE Development with Spring Framework">Professional J2EE Development with Spring Framework</a>&quot; 
+      </p>
+      <p>
+      <b>Software Passion: </b>What can we do with hundreds of cores, petabytes of storage and mobile device ubiquity? Apps as yet unimagined. We live in exciting times. <b></b>
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Website: <a href="http://www.springsource.org/roo">http://www.springsource.org/roo</a>
+      </p>
+      <p>
+      Twitter: benalexau&nbsp; 
+      </p>
+      <p>
+      Blog: <a href="http://blog.springsource.com/main/author/bena/">http://blog.springsource.com/main/author/bena/</a>
+      </p>
+      <p>
+      Books: Author of Security Chapter in <a href="http://www.amazon.ca/Professional-Java-Development-Spring-Framework/dp/0764574833" title="Professional J2EE Development with Spring Framework">Professional J2EE Development with Spring Framework</a>&nbsp; 
+      </p>
+      <p>
+      &nbsp;
+      </p>
+      <p>
+      &nbsp;
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1612: 
+    name: Neal Ford
+    company: Software Architect and Meme Wrangler at ThoughtWorks <br /> Author of "The Productive Programmer" and "Art of Java Web Development"
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/neal_ford_thumbnail.png
+    id: 1612
+    bio: |-
+      <p>
+      Neal is Software Architect and Meme Wrangler at ThoughtWorks, a global IT consultancy with an exclusive focus on end-to-end software development and delivery. Before joining ThoughtWorks, Neal was the Chief Technology Officer at The DSW Group, Ltd., a nationally recognized training and development firm. Neal has a degree in Computer Science from Georgia State University specializing in languages and compilers and a minor in mathematics specializing in statistical analysis. He is also the designer and developer of applications, instructional materials, magazine articles, video presentations, and author of 6 books, including the most recent The Productive Programmer.
+      </p>
+      <p>
+      His language proficiencies include Java, C#/.NET, Ruby, Groovy, functional languages, Scheme, Object Pascal, C++, and C. His primary consulting focus is the design and construction of large-scale enterprise applications. Neal has taught on-site classes nationally and internationally to all phases of the military and to many Fortune 500 companies. He is also an internationally acclaimed speaker, having spoken at over 100 developer conferences worldwide, delivering more than 600 talks. If you have an insatiable curiosity about Neal, visit his web site at <a href="http://www.nealford.com" target="_blank">www.nealford.com</a>. He welcomes feedback and can be reached at nford@thoughtworks.com.
+      </p>
+      <p>
+      <b>Software Passion:</b> Revolutionizing the way people build and think about building software to handle complicated problems. 
+      </p>
+      <p>
+      <b>Links:&nbsp; </b>
+      </p>
+      <p>
+      Website: <a href="http://www.nealford.com " title="http://www.nealford.com ">http://www.nealford.com </a>
+      </p>
+      <p>
+      Twitter: neal4d
+      </p>
+      <p>
+      Blog: <a href="http://memeagora.blogspot.com" target="_blank">http://memeagora.blogspot.com</a>
+      </p>
+      <p>
+      Presentations: <a href="http://www.slideshare.net/ThoughtWorks/neal-ford-emergent-design-and-evolutionary-architecture" title="Emergent Design and Evolutionary Architecture ">Emergent Design and Evolutionary Architecture</a> <a href="http://www.slideshare.net/guestebde/10-ways-to-improve-your-code-neal-ford" title="10 Ways To Improve Your Code ">10 Ways To Improve Your Code</a> <a href="http://www.infoq.com/interviews/Languages-Platforms-Neal-Ford" title="Programming Languages and Platforms">Programming Languages and Platforms</a>
+      </p>
+  1557: 
+    name: Michael T. Nygard
+    company: "Author of \"Release It: Design and Deploy Production - Ready Software\"<br /> Winner of JOLT Productivity Award"
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Michael_Nygaard_thumbnail.png
+    id: 1557
+    bio: |-
+      <p>
+      Michael strives to raise the bar and ease the pain for developers across the country. He shares his passion and energy for improvement with everyone he meets, sometimes even with their permission. Michael has spent the better part of 20 years learning what it means to be a professional programmer who cares about art, quality, and craft.  He's always ready to spend time with other developers who are fully engaged and devoted to their work--the &quot;wide awake&quot; developers.  On the flip side, he cannot abide apathy or wasted potential.
+      </p>
+      <p>
+      Michael has been a professional programmer and architect for nearly 20 years.  During that time, he has delivered running systems to the U. S. Government, the military, banking, finance, agriculture, and retail industries. More often than not, Michael has lived with the systems he built.  This experience with the real world of operations changed his views about software architecture and development forever.
+      </p>
+      <p>
+      He worked through the birth and infancy of a Tier 1 retail site and has often served as &quot;roving troubleshooter&quot; for other online businesses.  These experiences give him a unique perspective on building software for high performance and high reliability in the face of an actively hostile environment.
+      </p>
+      <p>
+      Most recently, Michael wrote &quot;Release It! Design and Deploy Production-Ready Software&quot;, a book that realizes many of his thoughts about building software that does more than just pass QA, it survives the real world.  Michael previously wrote numerous articles and editorials, spoke at Comdex, and co-authored one of the early Java books.
+      </p>
+      <p>
+      <b>Software passion:</b> My passion is for creating environments where 
+      everyone can be as creative and successful as they can.<b></b>
+      </p>
+      <p>
+      <b>Links:</b>
+      <b>
+      <span style="font-weight: normal" class="Apple-style-span"><a href="http://www.michaelnygard.com/"></a></span></b>
+      </p>
+      <p>
+      Websites: <a href="http://www.michaelnygard.com " title="http://www.michaelnygard.com ">http://www.michaelnygard.com</a> <a href="http://www.infoq.com/author/Michael-Nygard" title="http://www.infoq.com/author/Michael-Nygard">http://www.infoq.com/author/Michael-Nygard</a>
+      </p>
+      <p>
+      Blog: <a href="http://www.michaelnygard.com/">http://www.michaelnygard.com/blog</a>
+      </p>
+      <p>
+      Books:&nbsp; <a href="http://bit.ly/ReleaseIt">Release It! Design and Deploy Production-Ready 
+      Software</a> <a href="http://bit.ly/BeautifulArchitecture"> Beautiful Architecture 
+      </a><a href="http://bit.ly/97Things"> 97 Things</a> <a href="http://bit.ly/97Things">Every Software Architect Should 
+      Know</a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1668: 
+    name: Nicolas Garcia Belmonte
+    company: Author JavaScript InfoVis Toolkit and  V8-GL
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/nicolasgarciasbelmonte_thumbnail.jpg
+    id: 1668
+    bio: |-
+      <p>
+      Nicolas
+      Garcia Belmonte is a Computer Science Engineer from the Buenos Aires
+      Institute of Technology (ITBA), in Argentina. His main interests are
+      Web Standards and Information Visualization. Nicolas is the creator of
+      the <a href="http://thejit.org" title="JavaScript InfoVis Toolkit">JavaScript InfoVis Toolkit</a>, a toolkit to create Interactive Data
+      Visualizations for the Web and <a href="(http://github.com/philogb/v8-gl/#readme)" title="V8-GL">V8-GL</a>, a hardware accelerated graphics library built on top of Google's V8 JavaScript Engine.
+      </p>
+      <p>
+      <b>Software Passion:</b>&nbsp; Passionate about Web Standards and Information Visualization. 
+      </p>
+      <p>
+      <b>Links: </b>
+      </p>
+      <p>
+      Twitter: @philogb 
+      </p>
+      <p>
+      Blog: <a href="http://blog.thejit.org/" target="_blank">http://blog.thejit.org</a>
+      </p>
+      <p>
+      Software: <a href="http://thejit.org" title="JavaScript InfoVisa Toolkit">JavaScript InfoVis Toolkit</a>&nbsp; <a href="http://github.com/philogb/v8-gl#readme" title="V8-GL">V8-GL</a>
+      </p>
+  1635: 
+    name: Erik Meijer
+    company: <b>Keynote Speaker</b> <br />Master of Side Effects<br />Architect LINQ, C#, Microsoft SQL Division USA
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/erik_meijer_thumbnail.png
+    id: 1635
+    bio: |-
+      <p>
+      One of the most popular speakers at JAOO, TechEd, Mix and many other software developer conferences. Erik has twice been elected as a Distinguished Technical Contributor by his peers at Microsoft. Erik Meijer is an architect in the Microsoft SQL server division where he currently works together with the Microsoft Visual C# and the Microsoft Visual Basic language design teams on data integration in programming languages. 
+      </p>
+      <p>
+      Prior to joining Microsoft he was an associate professor at Utrecht University and adjunct professor at the Oregon Graduate Institute. 
+      </p>
+      <p>
+      Erik is one of the designers of the standard functional programming language Haskell98 and more recently the Cw language. 
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1613: 
+    name: Corey Haines
+    company: Software Journeyman <br /> Code Retreat Facilitator
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Corey Haines_thumbnail.jpg
+    id: 1613
+    bio: |-
+      <p>
+      Corey Haines has spent much of his 13+year professional
+      career in the Microsoft ecosystem, until moving out of the corporate world and
+      joining a small startup doing Ruby on Rails. After leaving the startup in 2008,
+      he began a year-long journey, traveling the midwest and east coast of the
+      United States on a pair-programming tour. He would spend anywhere from a day to
+      a week at different places, pairing with people in exchange for room and board.
+      While on the road, he has also focused on expanding and defining the message of
+      the Software Craftsmanship movement, as it pertains to both professionalism and
+      career development.
+      </p>
+      <p>
+      Corey has been practicing the Extreme Programming techniques for nearly 6
+      years; following the Behavior-Driven Development (BDD) techniques since the
+      first rumblings of it in 2005. Lately, he has been actively mentoring others in
+      the BDD workflow, as it pertains to day-to-day engineering practices, such as
+      test-driven design, executable acceptance criteria and 'outside-in'
+      development.
+      </p>
+      <p>
+      Nowadays, Corey travels to speak, study and facilitate <a href="http://www.coderetreat.com/" title="Code Retreat">Code Retreat</a> events.
+      During his travels, he is also collecting ideas for establishing a
+      craftsmanship-based school of software development.
+      </p>
+      <p>
+      <b>Software Passion: </b>
+      My passion is helping people, including myself, become more adept at the fundamentals of software development.
+      </p>
+      <p>
+      <b>Links:</b>&nbsp; 
+      </p>
+      <p>
+      Website:  <a href="http://www.coreyhaines.com/" class="moz-txt-link-abbreviated">www.coreyhaines.com</a> 
+      </p>
+      <p>
+      Twitter: coreyhaines 
+      </p>
+      <p>
+      Blog: <a href="http://katas.softwarecraftsmanship.org/">http://katas.softwarecraftsmanship.org/</a> 
+      </p>
+      <p>
+      Presentations:<a href="http://qconlondon.com/london-2010/tracks/show_track.jsp?trackOID=327" title="Software Craftsmanship, Beyond The Hype">Beyond the Hype</a> 
+      </p>
+  1850: 
+    name: Daniel Bradby
+    company: Director of Methods and Collaboration at jTribe Mobile Services
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/daniel bradby thumbnail.png
+    id: 1850
+    bio: |-
+      <p>
+      With a long list of references from Australia and around the world under his belt, Daniel has worked across industries and government organisations while also being involved in popular OpenSource projects such as Hibernate and Subclipse. Daniel carries a wealth of consulting and software development experience and has proven both technical expertise and leadership skill in numerous high-profile projects in Australia and the US.
+      </p>
+      <p>
+      Daniel's work at jTribe focuses on the Android and iOS mobile platforms and delivering successful projects for his clients on those platforms. 
+      </p>
+      <p>
+      <b>Website: </b><a href="http://www.jtribe.com.au/">http://www.jtribe.com.au</a><span class="Apple-style-span" style="font-family: arial,sans-serif; font-size: 13px; border-collapse: collapse"></span>
+      </p>
+      <p>
+      <b>Blog:&nbsp; </b>http://blog.jtribe.com.au/?cat=89
+      </p>
+      <p>
+      <b>Twitter:</b> @dbradby<span class="Apple-style-span" style="font-family: arial,sans-serif; font-size: 13px; border-collapse: collapse"></span> 
+      </p>
+      <b></b>
+  1795: 
+    name: Dan Ingalls
+    company: Principal Architect of Five Generations of Smalltalk <br /> Fellow at SAP Palo Alto Research Centre
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Dan Ingalls_thumbnail.jpg
+    id: 1795
+    bio: |-
+      <p>
+      Dan Ingalls is the principal
+      architect of five generations of Smalltalk environments. He designed the
+      byte-coded virtual machine that made Smalltalk practical in 1976. He later
+      conceived a Smalltalk written in itself and made portable and efficient by a
+      Smalltalk-to-C translator, now known as the Squeak open-source Smalltalk. Dan
+      also invented BitBlt, the general-purpose graphical operation that underlies
+      most bitmap graphics systems today, as well as pop-up menus. His most recent
+      work, the Lively Kernel, is a dynamic graphics and programming environment that
+      runs entirely in a browser. Able to save its results and even new versions of
+      itself as web pages, if offers the promise that wherever there is the web there
+      is authoring. Dan received his B.A. in Physics from <st1:place><st1:placename>Harvard</st1:placename> <st1:placetype>University</st1:placetype></st1:place>, and his M.S. in Electrical Engineering from <st1:place><st1:placename>Stanford</st1:placename> <st1:placetype>University</st1:placetype></st1:place>. He is a recipient of the ACM Grace Hopper Award, and
+      the ACM Software Systems Award.<br />
+      <br />
+      Dan has recently joined SAP and is a member of the Chief Scientist team guiding
+      the company&rsquo;s technology vision, direction and execution. <o:p></o:p>
+      </p>
+      <p>
+      <b>Software Passion:</b> Good software brings mathematics to life. If itdoesn't it isn't 
+      </p>
+      <p>
+      Website: <a href="http://www.squeak.org">http://www.squeak.org</a> <a href="http://www.lively-kernel.org/">http://www.lively-kernel.org/</a>
+      </p>
+      <p>
+      Twitter: @DanIngalls
+      </p>
+      <p>
+      Blog: <a href="http://whatsup-di.blogspot.com/">http://whatsup-di.blogspot.com/</a>
+      </p>
+      <p>
+      Articles: <a href="http://www.infoq.com/interviews/ingalls-smalltalk" title="Dan Ingalls on the History of Smalltalk and the Lively Kernel ">The Lively Kernel<br />
+      </a>
+      </p>
+      <p>
+      Presentations:&nbsp; <a href="http://www.infoq.com/interviews/ingalls-smalltalk" title="Dan Ingalls on the History of Smalltalk and the Lively Kernel ">Floss Weekly 29</a>&nbsp; <a href="http://www.infoq.com/interviews/ingalls-smalltalk" title="Dan Ingalls on the History of Smalltalk and the Lively Kernel ">Dan Ingalls on 
+      the History of Smalltalk and the Lively Kernel</a> <a href="http://www.infoq.com/interviews/ingalls-smalltalk" title="Dan Ingalls
+      on the History of Smalltalk and the Lively Kernel ">Sanskrit and OCR<br />
+      </a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+      <b></b>
+      <p>
+      &nbsp;
+      </p>
+  1707: 
+    name: Xerxes Battiwalla
+    company: Problem solver and bit-manipulator<br /> Senior Developer, Cochlear
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Xerxes Battiwalla_thumbnail.png
+    id: 1707
+    bio: |-
+      <p>
+      Since joining Cochlear in 2008, Xerxes has been involved in a number of software projects. With a focus on improving their audiological software, he is working to streamline software systems
+      that aid in the fitting of Cochlear Implant recipients, restoring hearing to the deaf faster and with better overall outcomes.
+      </p>
+      <p>
+      Having been involved in commercial software development for nearly a decade, Xerxes has worked with a broad range of clients from freight forwarding giants such as TNT and FedEx to New Zealand Parliament and HSBC bank. Commencing his career developing a tolling violation system for Sydney's south-west motorway, the M5, his interests then broadened to the digital media space, joining OneDigital (now Isobar Digital Agency Network). During this time he was an integral part of the team that created the Pizza Hut corporate website and online ordering
+      facility, and designed and implemented the Federal Government's Tourism Australia portal, part of a cross media campaign to attract overseas visitors.
+      </p>
+      <p>
+      Drawing on this range of experience in the web, desktop and mobile technology areas, his goal is to simplify processes and produce more intuitive software.
+      </p>
+      <p>
+      Outside the 9-5, Xerxes teaches the next generation of programmers, Computer Science students at the University Of Technology Sydney, helping to bridge the gap between academia and industry professionals.
+      </p>
+      <p>
+      <b>Software Passion:&nbsp; </b>&quot;My software passion: Making software simple and pain-free.&quot;
+      </p>
+      <p>
+      <b>Links:&nbsp; </b>
+      </p>
+      <p>
+      Website: <a href="http://www.xerxesb.com/">http://www.xerxesb.com/</a>&nbsp; 
+      </p>
+      <p>
+      Twitter: @xerxesb 
+      </p>
+      <p>
+      Blog: <a href="http://tumblr.xerxesb.com/" title="Untitled.Bat">Untitled.Bat </a>
+      </p>
+      <p>
+      <a href="http://tumblr.xerxesb.com/"><br />
+      </a> 
+      </p>
+  1696: 
+    name: Jason Yip
+    company: Agile and Lean afficianado <br /> Principal Consultant at ThoughtWorks
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Jason Yip_thumbnail.png
+    id: 1696
+    bio: |-
+      <p>
+      Jason is a popular speaker and a respected community builder. He has devoted much of his time to supporting users groups including, Sydney Limited WIP Society, SyXPAC, and Girl Geek Dinners. Jason
+      has worked at ThoughtWorks for the past 9 years as a buildmaster,
+      developer and Agile / Lean coach. He was one of the early committers
+      on CruiseControl, the first Open Source Continuous Integration server,
+      and is a prolific blogger and tweeter on Agile and Lean topics. Jason
+      used to own the entire first results page on Google until some Hong
+      Kong actor showed up.
+      </p>
+      <p>
+      <b>Software Passion: </b>Making software is about making people
+      </p>
+      <p>
+      <b>Links:</b> 
+      </p>
+      <p>
+      Twitter: @jchyip
+      </p>
+      <p>
+      Blog: <a href="http://jchyip.blogspot.com/" title="Making software is about making people" target="_blank">Making software is about making people</a>
+      </p>
+      <p>
+      Presentations: <a href="http://www.slideshare.net/jchyip">http://www.slideshare.net/jchyip </a>
+      </p>
+      <p>
+      Software: <a href="http://cruisecontrol.sf.net/" target="_blank">http://cruisecontrol.sf.net</a> 
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1685: 
+    name: Dave Farley
+    company: Author of 'Continuous Delivery' <br /> Head of Software Development at LMAX
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Dave Farley_thumbnail.jpg
+    id: 1685
+    bio: |-
+      <p>
+      Dave Farley has been having fun with computers for nearly 30 years.
+      Over that period he has worked on most types of software, from
+      firmware, through tinkering with operating systems and device drivers,
+      to writing games, and commercial applications of all shapes and sizes.
+      He started working in large scale distributed systems about 20 years
+      ago, doing research into the development of loose-coupled,
+      message-based systems - a forerunner of SOA. He has a wide range of
+      experience leading the development of complex software in teams, both
+      large and small, in the UK and USA. Dave was an early adopter of agile
+      development techniques, employing iterative development, continuous
+      integration and significant levels of automated testing on commercial
+      projects from the early 1990s. He honed his approach to agile
+      development in his four and a half year stint at ThoughtWorks where he
+      was a technical principal working on some of their biggest and most
+      challenging projects. Dave is currently working for the London
+      Multi-Asset Exchange (LMAX), an organization that is building one of
+      the highest performance financial exchanges in the world.
+      </p>
+      <p>
+      <b>Software Passion:&nbsp; </b>Writing software that makes people go &quot;Wow!&quot;
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Website: <a href="http://www.lmax.com/">http://www.lmax.com/</a>
+      </p>
+      <p>
+      Books:<a href="http://continuousdelivery.com/" title="Continuos Delivery" target="_blank">Continuous Delivery</a>
+      </p>
+  1801: 
+    name: Kresten Krab Thorup
+    company: CTO of Trifork and Creator of Erjang<br />Trifork, Founder JAOO Conferences
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/kresten_krab_thumbnail.png
+    id: 1801
+    bio: |-
+      <p>
+      Kresten Krab Thorup is CTO of <a href="http://www.trifork.com/" title="Trifork">Trifork</a>, a public Danish company providing software solutions to
+      government and financial services providers.&nbsp; Trifork is also creator of the long-running JAOO conference, and co-creator of QCon.&nbsp; As Trifork CTO Kresten in responsible for technical strategy in customer solutions, and spends most of the time acting as internal consultant, researching future technologies, as well as being editor for JAOO and QCon conferences. Kresten has also been a principal contributor to Trifork's own Java EE certified application server, where he authored the built-in CORBA ORB, a custom Java RMI implementation (now part of Apache Yoko),
+      the transaction manager, the database connection management system, and the Java byte code rewriting subsystem.
+      </p>
+      <p>
+      Kresten has been a contributor to several open source projects, including GCC, GNU Objective-C, GNU Compiled Java, Emacs, and Apache Geronimo/Yoko.&nbsp; Before joining Trifork, Kresten worked at NeXT
+      Software (now acquired by Apple), where he was responsible for the development of the Objective-C tool chain, the debugger, and the runtime system. Kresten was on the committee for JSR-14 (adding generics to Java) which was closely related to the subject of his Ph.D. thesis.<br />
+      </p>
+      <p>
+      Most recently, Kresten has founded the Erjang open source project (notice the J there), a virtual machine for Erlang running on the Java Virtual Machine.
+      </p>
+      <p>
+      <b>Software Passion:</b> My passion is creating software. The power of creation is the joy of 
+      conceiving a software solution, in the joy of good craftmanship in 
+      software construction, but most importantly the joy of seeing it&rsquo;s 
+      effects unfold as it enters the real world. It is born&hellip;&nbsp; 
+      </p>
+      <p>
+      <b>Website:</b>&nbsp; <a href="http://translate.google.com/translate?sl=da&amp;tl=en&amp;u=http://www.trifork.com/" title="Trifork">Trifork</a>
+      </p>
+      <p>
+      <b>Twitter:&nbsp; </b><a href="http://twitter.com/drkrab" title="drkrab">drkrab</a>
+      </p>
+      <p>
+      <b>Blog:</b>&nbsp; <a href="http://www.javalimit.com/" title="Java to the Limit">Java to the Limit</a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1669: 
+    name: Ben Fry
+    company: Author of  "Visualizing Data" and "Processing" <br /> Expert in Interactive Media and Visualization, Principal of Fathom, Design and Software Consultancy
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/benfry_thumbnail.jpg
+    id: 1669
+    bio: |-
+      <p>
+      Ben Fry received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, 
+      graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli &amp; Edythe L. Broad Insitute of MIT Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of 
+      Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly.
+      </p>
+      <p>
+      With Casey Reas of UCLA, he currently develops Processing, an open source programming environment for teaching computational design and sketching interactive media software that won a Golden Nica from the Prix Ars Electronica in 2005. The project also received the 2005 Interactive Design prize from the Tokyo Type Director's Club. In 2006, Fry received a New Media Fellowship from the Rockefeller Foundation to support the project. Processing was also featured in the 2006 Cooper-Hewitt Design Triennial. In 2007, Reas and Fry published Processing: A Programming Handbook for Visual Designers and Artists with MIT Press. Processing 1.0 was released in November 2008, and is used by tens of thousands of people every week.
+      </p>
+      <p>
+      Fry's personal work has shown at the Whitney Biennial in 2002 and the Cooper Hewitt Design Triennial in 2003. Other pieces have appeared in the Museum of Modern Art in New York, at Ars Electronica in Linz, Austria and in the films Minority Report and The Hulk. His information graphics have also illustrated articles for the journal Nature, New York Magazine, The New York Times, Seed, and Communications of the ACM.
+      </p>
+      <p>
+      Ben Fry runs a design and software consultancy based in Cambridge, 
+      Massachusetts.
+      </p>
+      <p>
+      <b>Software Passion: </b>Creating ways to see data, and teaching others to do the same.
+      </p>
+      <p>
+      <b>Links: 
+      </b>
+      </p>
+      <p>
+      Website: <a href="http://benfry.com/">http://benfry.com</a>
+      </p>
+      <p>
+      Twitter: ben_fry&nbsp;
+      </p>
+      <p>
+      Books: 
+      <a href="http://oreilly.com/catalog/9780596514556/" title="Visualizing Data">Visualizing Data</a>
+      <a href="http://mitpress.mit.edu/catalog/item/default.asp?tid=11251&amp;ttype=2" title="Processing">Processing</a>
+      <a href="http://oreilly.com/catalog/0636920000570/" title="Getting Started with Processing">Getting Started with Processing</a>
+      </p>
+      <p>
+      Software: <a href="http://processing.org/" title="Processing">Processing</a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1658: 
+    name: Eric Evans
+    company: Mr. Domain-Driven Design <br /> Author of Domain Driven Development
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/eric_evans_thumbnail.png
+    id: 1658
+    bio: |-
+      <p>
+      Eric Evans is a specialist in domain modeling and design in large business systems. Since the early 1990s, he has worked on many projects developing large business systems with objects and has been deeply involved in applying Agile processes on real projects.
+      </p>
+      <p>
+      Out of this range of experiences emerged the synthesis of principles and techniques shared in the book &quot;Domain-Driven Design,&quot; Addison-Wesley 2003.
+      </p>
+      <p>
+      Eric now leads <a href="http://domainlanguage.com" title="Domain Language, Inc.">Domain Language, Inc</a>., a consulting group which coaches and trains teams to make their development more productive and relevant through effective application of domain modeling and design.
+      </p>
+      <p>
+      <b>Software Passion:</b> Breaking My Own Domain Models 
+      </p>
+      <p>
+      <b>Links:</b>&nbsp;
+      </p>
+      <p>
+      Website: <a href="http://www.domainlanguage.com/">http://www.domainlanguage.com/</a>
+      </p>
+      <p>
+      Books: <a href="http://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215" title="Domain-Driven Design">Domain-Driven Design</a>
+      </p>
+  1636: 
+    name: Obie Fernandez
+    company: Author of "The Rails Way" and Editor of Addison-Wesley Professional Ruby Series <br />CEO & Founder of Hashrocket
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/obie fernandez_thumbnail.jpg
+    id: 1636
+    bio: |-
+      <p>
+      Obie Fernandez is Founder and CEO of Hashrocket, one of the world's
+      leading Rails-based web design and development consultancies,
+      headquartered in Jacksonville, FL. He is a widely recognized
+      technology leader and frequent speaker at industry events and is
+      Addison Wesley's Series Editor for the bestselling Professional Ruby
+      Series. Prior to Hashrocket, as a senior consultant at ThoughtWorks,
+      Obie specialized in complex custom enterprise software projects. He
+      has been hacking computers since he got his first Commodore VIC-20 in
+      the eighties, and found himself in the right place and time as a
+      programmer on some of the first Java enterprise projects of the
+      mid-nineties.
+      </p>
+      <p>
+      <b>Software Passion:</b> I have a passion for making the world of software development a more fun and productive place!
+      </p>
+      <p>
+      <b>Links: </b>
+      </p>
+      <p>
+      Websites:&nbsp; <a href="http://hashrocket.com/">http://hashrocket.com</a>
+      <a href="http://obiefernandez.com/">http://obiefernandez.com</a>
+      </p>
+      <p>
+      Twitter: obie
+      </p>
+      <p>
+      Blog: <a href="http://blog.obiefernandez.com/content ">http://blog.obiefernandez.com/content </a>
+      </p>
+      <p>
+      Books: <a href="http://www.amazon.ca/Rails-Way-Obie-Fernandez/dp/0321445619" title="The Rails Way">The Rails Way</a>
+      </p>
+      <p>
+      &nbsp;
+      </p>
+  1614: 
+    name: Richard Durnall
+    company: Head of Delivery for Realestate.com.au (REA)
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Richard Durnall_thumbnail.jpg
+    id: 1614
+    bio: |-
+      <p>
+      Richard Durnall is a Head of Delivery for REA Group based in Melbourne, Australia. The REA Group is entrenched as Australia's most popular commerical and residential real estate websites. Prior to joining REA, Richard was a Principal Consultant for ThoughtWorks based in Melbourne Australia, with over 13 years experience in the high-technology industry. Richard helps ThoughtWork's clients to improve the efficiency and effectiveness of their IT divisions by applying Lean and Agile techniques to their businesses.
+      </p>
+      <p>
+      Richard spent a number of years working in the Manufacturing &amp; Supply Chain Systems Division of Ford Motor Company, working with a global team to introduce Lean principles to the manufacturing plants and re-align the IT systems to the new processes. Richard was lucky enough to work with a number of Lean experts, some ex-Toyota, and has been applying this knowledge in the IT domain for the last 5 years.
+      </p>
+      <p>
+      Richard is a frequent author on applying Lean management thinking to IT divisions at his site (<a href="http://www.richarddurnall.com">www.richarddurnall.com</a>) and presents frequently on the applications of Lean in IT.
+      </p>
+      <p>
+      Richard has spent a number of years working with Agile software development teams and uses his Lean knowledge to resolve the larger organisational issues often experienced by large organisations moving to new working practices.
+      </p>
+      <p>
+      Richard's clients include some of Australia's largest businesses in the financial services, government, print, on-line and service sectors.
+      </p>
+      <p>
+      Richard is a certified 6-Sigma practitioner and a chartered member of the British Computer Society.
+      </p>
+      <p>
+      <b>Software Passion:&nbsp;</b> Building high-performing IT divisions. IT management, practice and
+      theory. 
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Twitter: rdurnall
+      </p>
+      <p>
+      Blog: <a href="http://www.richarddurnall.com/">www.richarddurnall.com</a>
+      <br />
+      </p>
+  1851: 
+    name: Nathan de Vries
+    company: Freelance iOS Developer
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/nathan devries_thumbnail.jpg
+    id: 1851
+    bio: |-
+      <p>
+      Much like the idea that the best camera is the one that's with you, Nathan believes that the most exciting tech. is in and around thedevices we carry with us every day.
+      </p>
+      <p>
+      For this reason, Nathan has chosen the path of a freelance iOS developer, working with organisations who are trying to wrap their heads around the staggering trend towards mobile. He cut his teeth on WAP, J2ME &amp; Symbian, but dropped everything in mid-2008 when Apple released the iPhone SDK. He never looked back.
+      </p>
+      <p>
+      Nathan maintains his sanity &amp; creative energy by working with other highly motivated people in a fantastic co-working space in Surry Hills, Sydney.
+      </p>
+      <p>
+      <b>Software Passion:</b>&nbsp;Filling people's pockets with indispensable software.
+      </p>
+      <p>
+      <b>Blog:</b> http://www.atnan.com/
+      </p>
+      <p>
+      <b>Website: </b><a href="http://nathandevries.com/">http://nathandevries.com</a>
+      </p>
+      <p>
+      <b>Twitter:&nbsp; </b>atnan<br />
+      </p>
+      <b></b>
+  1796: 
+    name: Chris Mountford
+    company: Senior Software Engineer <br />Atlassian
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/chrismountford_thumbnail.jpg
+    id: 1796
+    bio: |-
+      <p>
+      Chris started programming when he was 8 years old on a Vic-20, tediously typing in games in BASIC and wishing for a cassette drive. Since then he has worked on a range of development projects
+      from startups to multinationals, from finance to education and currently works on JIRA at Atlassian in Sydney.&nbsp;Chris has spoken at a number of user groups and conferences including SyXPAC and the Sydney Scrum User group, Illawarra Java User Group, Web Directions and Atlassian Summit
+      </p>
+      <p>
+      <b>Software Passion:&nbsp; </b>What I love most about software is that it's magic. The fact that code is so abstract and yet so rigorously and so effortlessly executed makes it like creating something from nothing.
+      </p>
+      <p>
+      <b>Website:</b> <a href="http://www.blogger.com/profile/03560327085364406517">http://www.blogger.com/profile/03560327085364406517</a>
+      </p>
+      <p>
+      <b>Twitter:</b> chromosundrift
+      </p>
+      <p>
+      <b>Blog:</b> <a href="http://blog.chromosundrift.com/">http://blog.chromosundrift.com/ </a><br />
+      </p>
+  1708: 
+    name: Victor Rodrigues
+    company: Agile methods practitioner and evangelist with a passion for the total end user experience<br />Head of Audiological Software Development for Cochlear
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Victor Rodrigues_thumbnail.png
+    id: 1708
+    bio: |-
+      <p>
+      Head of Audiological Software Development for Cochlear, whom he has been with for 10 years. Victor Rodrigues has over 18 years' experience in the IT sector. Previously working in fields as diverse as
+      manufacturing control systems, service station and postal management systems and medical devices, Victor introduced Scrum to the Cochlear software team four years ago, with positive results. Since then engineering teams throughout the organisation are using Agile practices and methods.
+      </p>
+      <p>
+      One of the keys to the success of the software his teams deliver are Agile practices and methods. Utilising the closer relationships with stakeholders that form using this process, the teams
+      have been able to provide stakeholders the opportunity to shape the product during its development. This is complemented by the team's use and Victor's passion for user-centred interaction design.
+      </p>
+      <p>
+      He recently was invited to join a working group (commissioned by the Association for the Advancement of Medical Instrumentation (AAMI)) responsible for producing a technical information report on the use of Agile methods and practices in the medical device industry.
+      </p>
+      <p>
+      <b>Software Passion: </b> &quot;Supporting software teams to perform at their best and evangelising&nbsp;<b><span class="Apple-style-span" style="font-weight: normal">the total end user experience</span></b>.&quot;
+      </p>
+      <div>
+      <b>Links: </b>
+      </div>
+      <div>
+      &nbsp;
+      </div>
+      <div>
+      Twitter: @jeunj
+      </div>
+      <div>
+      &nbsp;
+      </div>
+      <div>
+      Blog: <a href="http://beyondcomprehension.posterous.com/">http://beyondcomprehension.posterous.com/</a> 
+      </div>
+  1686: 
+    name: Dragos Manolescu
+    company: Principal Software Developer, Application Platform Group in Windows Phone </br> Microsoft USA
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/dragos manolescu thumbnail.png
+    id: 1686
+    bio: |-
+      <p>
+      Dragos Manolescu is Principal Software Developer in the Application Platform Group in Windows Phone. He was responsible for shaping the Windows Phone 7 API surface area, and most recently has been working on device health and performance. Dragos' previous experience at Microsoft include Live Labs, a conglomerate of engineers and scientists with which he worked on Volta (web development through recompiling), Political Streams (social media), and the Web Sandbox (mashup security),  and patterns &amp; practices with which he developed prescriptive guidance  for developers. Prior to Microsoft he worked as a consultant, assistant professor, and Smalltalk developer. Dragos doesn't tweet, and updates his Facebook profile infrequently. Most search engines can easily point you to his fingerprints on the Internet, which include several books, papers and articles, as well as conferences and workshops. Dragos holds a PhD in Computer Science from the University of Illinois at Urbana. He lives in the Seattle area of Washington (the evergreen state) where he enjoys the proximity to mountains, forests, islands, and the Pacific.
+      </p>
+      <p>
+      <b>Software passion:</b> Cross-pollination of ideas, such as using FFTs for similarity search
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Blog:<a href="http://blogs.msdn.com/b/dragoman/">http://blogs.msdn.com/b/dragoman/</a>
+      </p>
+  1631: 
+    name: Rachel Reinitz
+    company: IBM Distinguished Engineer in WebSphere Services and Support <br /> Senior Consulting IT Specialist
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Rachel Reinitz_thumbnail_SH.jpg
+    id: 1631
+    bio: |-
+      <p>
+      Rachel Reinitz is an IBM Distinguished Engineer in WebSphere Services and Support and a member of the IBM Academy of Technology.  She has built much of IBM&rsquo;s internal and external intellectual capital and education on SOA, Enterprise Service Bus, and Web services.  Rachel focuses on how to get started with SOA and ESB best practices as one of IBM's top ESB experts.  She consults with clients and ISVs on how SOA and ESB can be used to achieve their business and technical objectives.  She is a frequent conference presenter and written many developerWorks articles on ESB and Web services.  Rachel lives in the Bay Area in California, and enjoys hiking, socializing, and international travel.
+      </p>
+      <p>
+      <b>Software Passion:</b> Applying new technologies to solve customer 
+      challenges
+      </p>
+      <p>
+      Links:
+      </p>
+      <p>
+      Website: <a href="http://www.ibm.com/developerworks/websphere/community/authors/rachelreinitz_bio.html" target="_blank">http://www.ibm.com/developerworks/websphere/community/authors/rachelreinitz_bio.html</a>
+      </p>
+      <p>
+      Articles:&nbsp; &quot;<a href="http://www.ibm.com/developerworks/websphere/techjournal/0901_col_brown/0901_col_brown.html" target="_blank">SOA lessons learned for Web 2.0</a>&quot; &quot;<a href="http://www.ibm.com/developerworks/websphere/techjournal/0705_col_reinitz/0705_col_reinitz.html" target="_blank">Developing skills for the SOA world -- an expert who's 
+      been there tells all</a>&quot; <a href="http://www.ibm.com/developerworks/library/ar-esbpat2/" target="_blank">Exploring the Enterprise Service Bus, Part 2: Why the 
+      ESB is a fundamental part of SOA</a>&nbsp; 
+      </p>
+  1802: 
+    name: Gregor Hohpe
+    company: Author "Enterprise Integration Patterns"<br />Software Engineer and Architect<br />Google, Japan
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Gregor Hohpe_thumbnail.png
+    id: 1802
+    bio: |-
+      <p>
+      Gregor Hohpe is a software architect with Google, Inc. Gregor is a widely recognized thought
+      leader on asynchronous messaging and service-oriented architectures. He co-authored the seminal book &quot;Enterprise Integration Patterns&quot;(Addison-Wesley, 2004), followed by &quot;Integration Patterns&quot; and &quot;Enterprise Solution Patterns&quot;, both published by Microsoft Press. He was nominated a Microsoft MVP (Most Valuable Professional) Solution Architect
+      for his contributions to the developer community and recognized as an active member of the patterns community by the Hillside Group. In 2005, Joel Spolsky selected Gregor's article &quot;Starbucks Does Not Use Two-phase Commit&quot; for his &quot;Best Software Writing&quot; (APress).
+      </p>
+      <p>
+      Gregor speaks regularly at technical conferences around the world. He likes to cut through the hype surrounding service-oriented architectures and captures nuggets of advice in the form of design patterns that can help developers avoid costly mistakes. Find out more about his work at&nbsp;<a href="http://www.eaipatterns.com/" target="blank">eaipatterns.com
+      </a>
+      </p>
+      <p>
+      <b>Website:</b>&nbsp; <a href="http://www.hohpe.com/Gregor/Work/index.html">http://www.hohpe.com/Gregor/Work/index.html</a>
+      </p>
+      <p>
+      <b>Books:&nbsp;</b> <a href="http://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20" title="Enterprise Integration Patterns">Enterprise Integration Patterns</a>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="ProgId" content="Word.Document" />
+      <meta name="Generator" content="Microsoft Word 10" />
+      <meta name="Originator" content="Microsoft Word 10" />
+      <link href="file:///C:%5CDOCUME%7E1%5Cadmin%5CLOCALS%7E1%5CTemp%5Cmsohtml1%5C01%5Cclip_filelist.xml" rel="File-List" />
+      <!--[if gte mso 9]><xml>
+      <w:WordDocument>
+      <w:View>Normal</w:View>
+      <w:Zoom>0</w:Zoom>
+      <w:Compatibility>
+      <w:BreakWrappedTables/>
+      <w:SnapToGridInCell/>
+      <w:WrapTextWithPunct/>
+      <w:UseAsianBreakRules/>
+      </w:Compatibility>
+      <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+      </w:WordDocument>
+      </xml><![endif]--><style>
+      <!--
+      /* Style Definitions */
+      p.MsoNormal, li.MsoNormal, div.MsoNormal
+      {mso-style-parent:"";
+      margin:0cm;
+      margin-bottom:.0001pt;
+      mso-pagination:widow-orphan;
+      font-size:12.0pt;
+      font-family:"Times New Roman";
+      mso-fareast-font-family:"Times New Roman";}
+      @page Section1
+      {size:612.0pt 792.0pt;
+      margin:72.0pt 90.0pt 72.0pt 90.0pt;
+      mso-header-margin:36.0pt;
+      mso-footer-margin:36.0pt;
+      mso-paper-source:0;}
+      div.Section1
+      {page:Section1;}
+      -->
+      </style><!--[if gte mso 10]>
+      <style>
+      /* Style Definitions */
+      table.MsoNormalTable
+      {mso-style-name:"Table Normal";
+      mso-tstyle-rowband-size:0;
+      mso-tstyle-colband-size:0;
+      mso-style-noshow:yes;
+      mso-style-parent:"";
+      mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+      mso-para-margin:0cm;
+      mso-para-margin-bottom:.0001pt;
+      mso-pagination:widow-orphan;
+      font-size:10.0pt;
+      font-family:"Times New Roman";}
+      </style>
+      <![endif]--><span style="font-size: 10pt; font-family: 'Times New Roman'"></span>
+      </p>
+      <p>
+      <b>Presentations:&nbsp; </b><a href="http://www.infoq.com/presentations/programming-cloud-gregor-hohpe" title="Hooking Stuff Together - Programming the Cloud">Hooking Stuff Together - Programming the Cloud</a>
+      </p>
+  1692: 
+    name: Ian Robinson
+    company: Author of "REST in Practice" <br /> Principal Consultant, ThoughtWorks
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/ian_robinson_thumbnail.png
+    id: 1692
+    bio: |-
+      <p>
+      Ian Robinson is a 
+      Principal Consultant with ThoughtWorks, where he specializes in the 
+      design and
+      delivery of service-oriented and distributed systems.
+      </p>
+      <p>
+      He has written guidance for Microsoft on implementing integration 
+      patterns with Microsoft technologies, and has published articles on 
+      business-oriented
+      development methodologies and distributed systems design - most
+      recently in The ThoughtWorks Anthology (Pragmatic Programmers, 2008).
+      </p>
+      <p>
+      He is currently co-authoring a book on RESTful enterprise integration.
+      </p>
+      <p>
+      <b>Links: </b>
+      </p>
+      <p>
+      Website: <a href="http://iansrobinson.com/">http://iansrobinson.com/ </a>
+      </p>
+      <p>
+      Blog: <a href="http://iansrobinson.com/">http://iansrobinson.com/ </a>
+      </p>
+      <p>
+      Books: <a href="http://oreilly.com/catalog/9780596805838/" title="REST in Practice">REST in Practice </a>
+      </p>
+      <p>
+      Presentation: <a href="http://www.infoq.com/interviews/robinson-webber-rest" title="Ian Robinson and Jim Webber on Web-Based Integration">Ian Robinson and Jim Webber on Web-Based Integration </a>
+      </p>
+  1659: 
+    name: "Emil Eifr\xC3\xA9m"
+    company: Founder of Neo4j <br /> Expert in Graph Datasbases and NoSQL
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Emil EfreimBW_thumbnail.jpg
+    id: 1659
+    bio: |-
+      <p>
+      After some unsuccessful attempts at demo programming in the 80s, Emil Eifrem 
+      found a hacker's home in the world of text role-playing games in the early days 
+      of the internet.
+      </p>
+      <p>
+      100 000 lines of spaghetti C, almost as many segfaults and 
+      several sleepless years later, he escaped into the warm embrace of Java 1.0a2 
+      and has stayed there ever since. (He has no regrets but is secretly proud that 
+      the text game he founded is still played almost 15 years later.)
+      </p>
+      <p>
+      After a decade as a developer, mentor and architect at a consulting- and product company in southern Sweden, Emil's current focus is on evangelizing graph databases and preaching the demise of tabular solutions everywhere.
+      </p>
+      <p>
+      <b>Links:</b>
+      </p>
+      <p>
+      Website: <a href="http://neotechnology.com/">http://neotechnology.com/ </a>
+      </p>
+      <p>
+      Twitter: emileifrem
+      </p>
+      <p>
+      Blog:
+      <a href="http://blogs.neotechnology.com/emil" target="_blank">http://blogs.neotechnology.com/emil</a>
+      </p>
+      <p>
+      Software: <a href="http://neo4j.org" target="_blank" title="Neo4j">Neo4j</a> <br />
+      </p>
+  1637: 
+    name: J. B. Rainsberger
+    company: Author of "JUnit Recipes" <br /> Agile Alliance Pask Award Winner, Founder of XP Day North American <br />Principal JBRAINS
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/J rainsberger_thumbnail.jpg
+    id: 1637
+    bio: |-
+      <p>
+      J. B. (Joe) Rainsberger is a <a href="http://en.wikipedia.org/wiki/Canada" title="Canadian">Canadian</a> software development consultant and technology writer, best known for his contributions to <a href="http://en.wikipedia.org/wiki/Agile_development" title="Agile development">agile development</a>,for which he was awarded the highest honor from the agile community, the Gordon Pask Award in 2005 (its first year of existence). He is the founder of <a href="http://www.xpday.info/">XPDay North America</a>. He is also well known
+      for his book,<i>JUnit Recipes: Practical Methods for Programmer Testing</i>. He has been an agile practitioner since 2000, and in this time his articles on agile development have been published by leading programmer's magazines including IBM DeveloperWorks and IEEE Software, for the latter of which he edits the regular &quot;Not Just Coding&quot; column
+      </p>
+      <p>
+      He is well known and well regarded in the Agile Software Development community. He is a frequent speakerat conferences around the world, and an important contributor to public
+      discussions that further the state of the art.
+      </p>
+      <p>
+      J.B. helps software organizations better satisfy their customers and the businesses they support. Expert at delivering successful software, he writes, teaches and speaks about why delivering better software is important, but not enough. He helps clients improve their bottom line by coaching teams as well as leading change programs. He helps software organizations off the treadmill of over-commitment and under-delivery, addressing all aspects of software delivery including understanding the business, gelling the team and even writing great code. Learn more about how Joe will inspire your software organization at jbrains.ca, at conferences world-wide, or by writing him directly at <a href="mailto:get.started@jbrains.ca">get.started@jbrains.ca</a>
+      </p>
+      <a href="mailto:get.started@jbrains.ca"></a>
+      <p>
+      <b>Software Passion:&nbsp; </b>I only want to develop the smallest amount of greatest software my stakeholders need.
+      </p>
+      <p>
+      <b>Links: </b>
+      </p>
+      <p>
+      Websites: <a href="http://blog.jbrains.ca/">http://blog.jbrains.ca/</a> <a href="http://www.weliveherenow.net/about/">http://www.weliveherenow.net</a>
+      </p>
+      <p>
+      Twitter: jbrains
+      </p>
+      <p>
+      Blogs: <a href="http://blog.thecodewhisperer.com/" target="_blank">http://blog.thecodewhisperer.com
+      </a>
+      </p>
+      <p>
+      Books: <a href="http://www.manning.com/rainsberger/" title="JUnit Recipes">JUnit Recipes </a>
+      </p>
+      <p>
+      Articles: <a href="http://www.infoq.com/news/2009/04/jbrains-integration-test-scam" title="J.B Rainsberger: &quot;Integrated Tests are a Scam&quot;">J.B. Rainsberger: &quot;Integrated Tests are a Scam&quot;</a>
+      </p>
+      <p>
+      Other URL's: <a href="http://rubygems.org/gems/maruku-jbrains" target="_blank">http://rubygems.org/gems/maruku-jbrains</a> 
+      </p>
+  1615: 
+    name: Mary Poppendieck
+    company: Thought leader in the software industry <br /> Respected Author of Lean Software Development
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Mary-Poppendieck_SH_thumbnail.jpg
+    id: 1615
+    bio: |-
+      <p>
+      Mary Poppendieck has been in the Information Technology industry for over thirty years. She has managed software development, supply chain management, manufacturing operations, and new product development. She spearheaded the implementation of a Just-in-Time system in a 3M video tape manufacturing plant and led new product development teams, commercializing products ranging from digital controllers to 3M Light Fiber&trade;.&nbsp; Mary is a popular writer and speaker, and coauthor of the book Lean Software Development, which was awarded the Software Development Productivity Award in 2004. A sequel, Implementing Lean Software Development, was published in 2006. A third book, Leading Lean Software Development, was published in November 2009.
+      </p>
+      <p>
+      <b>Software Passion:</b> Putting Passion back into Programming
+      </p>
+      <p>
+      <b>Website:&nbsp; </b><a href="http://www.poppendieck.com/publications.htm" class="moz-txt-link-freetext">http://www.poppendieck.com</a>
+      </p>
+      <p>
+      <b>Books:</b>&nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/0321620704/poppendieckco-20" title="Leading Lean Software Development: Results Are not the Point">Leading Lean Software Development: Results Are not the Point</a> <a href="http://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381/ref=pd_sim_b_1" title="Implementing Lean Software Development: From Concept to Cash">Implementing Lean Software Development: From Concept to Cash</a>
+      </p>
+      <p>
+      <a href="http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=pd_bxgy_b_text_b" title="Lean Software Development: An Agile Toolkit">Lean Software Development: An Agile Toolkit </a>
+      </p>
+  1797: 
+    name: Amanda Laucher
+    company: "\"F# Amanda\" and Author \"F# In Action\"<br /> Geek, Thoughtworks"
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Amanda_Laucher_Thumbnail.jpg
+    id: 1797
+    bio: |-
+      <p>
+      Amanda Laucher is a software developer/architect focusing on Microsoft technologies. She is currently based in Chicago working with Thoughtworks.
+      </p>
+      <p>
+      Blog: <a href="http://pandamonial.grahamis.com/blog/">http://pandamonial.grahamis.com/blog/</a>
+      </p>
+      <p>
+      Books: F# in Action 
+      </p>
+  1687: 
+    name: Ulf Wiger
+    company: Bought the world's first Erlang licence<br /> Specialist in the Architecture and Design of Carrier-Class Telecom Systems<br />CTO, Erlang Solutions Ltd. Sweden
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Ulf Wiger_thumbnail.jpg
+    id: 1687
+    bio: |-
+      <p>
+      Ulf Wiger became one of the first commercial users of Erlang (certainly the first in North America) when he bought a license in 1993. At the time, he was busy designing disaster response systems in Alaska. In 1996, he joined Ericsson and became Chief Designer of the AXD 301 development. At nearly 2 million lines of Erlang code, AXD 301 is the most complex system ever built in Erlang, and probably the most complex commercial system built in any functional language. In recent years, Ulf has been involved in several products based on the AXD 301<br />
+      architecture, and has been an active member of the Open Source Erlang community. In February 2009, Ulf began his new job as CTO of Erlang Solutions Ltd. 
+      </p>
+      <p>
+      Senior Specialist in the Architecture and Design of carrier-class systems. Has had the rare opportunity to influence a world-class product from conception through product release, several years of feature upgrades and maintenance, and finally a significant technology shift. Previous experience includes architecture and design of decision support technology for the US DOD and the
+      Alaska Integrated Incident Management System.. A special interest is trying to bridge the cultures of research, Open Source development, and industrial
+      design.
+      </p>
+      <p>
+      Software Passion: To expand my mind by meeting people from all walks of life. Hopefully,<br />
+      their minds will do a bit of expanding too... 
+      </p>
+      <p>
+      Links: 
+      </p>
+      <p>
+      Website: <a href="http://ulf.wiger.net/weblog/">http://ulf.wiger.net/weblog/</a>
+      </p>
+      <p>
+      Twitter: @uwiger 
+      </p>
+      <p>
+      Blog: <a href="http://uwiger.blogspot.com/" title="Ulf Wiger on Singing">Ulf Wiger on Singing</a>&nbsp;&nbsp; 
+      </p>
+  1847: 
+    name: Udi Dahan
+    company: The Software Simplist </br> Enterprise Development Expert & SOA Specialist
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/Udi dahan_thumbnail.png
+    id: 1847
+    bio: |-
+      <p>
+      Udi Dahan is The Software Simplist, an internationally renowned 
+      expert on software architecture and design. A solutions architecture and
+      connected systems MVP, 5 years in a row, Mr. Dahan is also one of 33 
+      experts in Europe recognized by the International .NET Association, an 
+      author and trainer for the International Association of Software 
+      Architects, and an SOA, Web Services, and XML Guru recommended by Dr. 
+      Dobb&rsquo;s &ndash; the world&rsquo;s largest software magazine.
+      </p>
+      <p>
+      When not consulting, speaking, or training, Udi leads the development of <a href="http://www.nservicebus.com/">NServiceBus</a>, the most popular open-source service bus for .NET
+      </p>
+      <p>
+      <b>Website:</b>&nbsp; http://www.udidahan.com/
+      </p>
+      <p>
+      <b>Blog:</b> http://www.udidahan.com/?blog=true 
+      </p>
+      <p>
+      <b>Software Passion: </b>Simplicity
+      </p>
+  1803: 
+    name: Justin Sheehy
+    company: CTO, Basho Technologies <br /> Riak and Webmachine Committer
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/photos/speakers/Justin Sheehy_thumbnail.jpg
+    id: 1803
+    bio: |-
+      <p>
+      Justin Sheehy is the CTO of Basho Technologies, the company behind the creation of Webmachine and Riak. As Chief Technology Officer, Justin Sheehy directs Basho's technical strategy, including integration with other platforms and new research into storage and distributed systems. Most recently before Basho, he was a principal scientist at the MITRE Corporation and a senior architect for systems infrastructure at Akamai. At both of those companies he focused on multiple aspects of robust distributed systems, including scheduling algorithms, language-based formal models, and resilience.
+      </p>
+      <p>
+      <b>Software Passion:&nbsp; </b>I am passionate about solving important problems by bringing ideas and
+      techniques across technical domains in unusual ways.
+      </p>
+      <p>
+      <b>Website:</b> <a href="http://www.basho.com/">http://www.basho.com/</a> <br />
+      </p>
+      <a href="http://www.basho.com/"></a>
+      <p>
+      <b>Twitter:&nbsp; </b>@justinsheehy
+      </p>
+      <p>
+      <b>Blog: </b><a href="http://blog.basho.com/">http://blog.basho.com/</a>
+      </p>
+      <p>
+      <b>Presentations:&nbsp; </b><a href="http://www.infoq.com/presentations/Embracing-Concurrency-At-Scale" title="Embracing Concurrency At Scale">Embracing Concurrency At Scale</a> <a href="http://www.infoq.com/interviews/sheehy-riak" title="Justin Sheehy on Riak">Justin Sheehy on Riak</a> 
+      </p>
+  1616: 
+    name: Guy L. Steele, Jr.
+    company: <b>Keynote Speaker</b> <br /> Language Designer and Author <br /> Fellow Sun Labs, Oracle
+    title: ""
+    class: SpeakerVO
+    thumbnail: /aarhus-2008/file?path=/YOW_2010/Speakers/guysteele_thumbnail.jpg
+    id: 1616
+    bio: |-
+      <p>
+      &quot;Richard Gabriel and Guy Steele are beasts in the world of computer science, and they are creative and witty geeks.&quot;&nbsp; 
+      </p>
+      <p>
+      Guy L. Steele Jr. (Ph.D., MIT, 1980) is a Software Architect and heads the Programming Language Research Group within Sun Labs (now a part of Oracle) in Burlington, MA, USA. Before coming to Sun Labs in 1994, he held positions at Carnegie-Mellon University, Tartan Laboratories, and Thinking Machines Corporation.He is the author or co-author of several books on programming languages (Common Lisp, C, High Performance Fortran, the Java Language Specification) as well as &quot;The Hacker's Dictionary&quot; (also known on the Internet as the &quot;Jargon File&quot;). 
+      </p>
+      <p>
+      He has served as program chair for four ACM conferences on programming languages and also on the program committees of over 30 other conferences. He has served on accredited standards committees for the programming languages Common Lisp, C, Fortran, Scheme, and ECMAScript. He is an inventor or co-inventor on over 40 computer-related patents. He designed the original EMACS command set and was the first person to port TeX. 
+      </p>
+      <p>
+      He is a Fellow of the American Association for Artificial Intelligence (1990) and a Fellow of the Association for Computing Machinery (1994). He has been awarded the ACM Grace Murray Hopper Award (1988), a Gordon Bell Prize (1990), and the ACM SIGPLAN Programming Languages Achievement Award (1996). He has been elected to the National Academy of Engineering of the United States of America (2001) and to the American Academy of Arts and Sciences (2002). 
+      </p>
+      <p>
+      <b>Software Passion:</b><br />
+      Designing languages that allow programmers to express their ideas clearly, effectively, conveniently, and as concisely as may be appropriate 
+      </p>
+      <p>
+      <b>Links:</b><br />
+      </p>
+      <p>
+      Websites: <a href="http://labs.oracle.com/projects/plrg"><span class="moz-txt-link-freetext">http://labs.oracle.com/projects/plrg</span></a><span class="moz-txt-link-freetext"><a href="http://labs.oracle.com/projects/plrg">&nbsp;</a>&nbsp; <a href="http://projectfortress.sun.com">http://projectfortress.sun.com</a></span>
+      </p>
+      <p>
+      Twitter: I am not a member of Twitter. I generally deal in ideas that require paragraphs, or perhaps full-blown essays, rather than single sentences. 
+      </p>
+      <p>
+      Books: <a href="http://www.codersatwork.com/guy-steele.html" title="Coders at Work">Coders at Work&nbsp;</a> <a href="http://java.sun.com/docs/books/jls/" title="The Java Language Specification">The Java Language Specification</a> <a href="http://www.amazon.com/Common-LISP-Language-Second-Steele/dp/1555580416" title="Common LISP, The Language">Common LISP, The Language</a> <a href="http://www.amazon.ca/Reference-Manual-Samuel-P-Harbison/dp/013089592X" title="C: A Reference Manual" target="_blank">C: A Reference Manual</a>
+      </p>
