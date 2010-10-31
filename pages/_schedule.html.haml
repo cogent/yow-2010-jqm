@@ -4,6 +4,7 @@
     %h1 YOW! Melbourne Schedule 2010
 
   %div{"data-role" => "content"}
+
     %ul{"data-role" => "listview"}
 
       - yow_days.each_with_index do |day, i|
@@ -29,3 +30,35 @@
                           
               - else
                 %li= "#{timeslot[:time]} &mdash; #{timeslot[:sessions].first[:track]}"
+
+      %li<
+        Now / Next
+        
+        %ul
+          %li
+            Nothing here yet...
+
+      %li<
+        All Sessions
+
+        %ul
+          - yow_sessions.each do |session|
+            - unless session[:title].empty?
+              %li<
+                %h3
+                  %a{:href => "#session#{session[:id]}"}= session[:title]
+                %p= session[:speakers]
+                %p
+                %strong= session[:track]
+
+      %li<
+        Speakers
+
+        %ul
+          - yow_speakers.each do |speaker|
+            %li<
+              %img{:src => "http://jaoo.dk/#{speaker['thumbnail']}", :width => '70px'}
+              .indented
+                %h3= speaker['name']
+                %p= speaker['company']
+

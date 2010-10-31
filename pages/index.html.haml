@@ -6,6 +6,7 @@
     %title YOW! Melbourne Schedule 2010
 
     %link{:rel => "stylesheet", :href => href("/jqm/jquery-20101028.mobile.min.css")}
+    %link{:rel => "stylesheet", :href => href("yow.css")}
 
     %script{:src => href("/jqm/jquery-20101028.min.js")}
     %script{:src => href("/jqm/jquery-20101028.mobile.min.js")}
@@ -16,3 +17,6 @@
 
     - yow_sessions.each do |session|
       ~ include("_session.html.haml", :session => session)
+
+    - yow_speakers.each do |speaker|
+      ~ include("_speaker.html.haml", :speaker => speaker)

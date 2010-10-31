@@ -1,0 +1,7 @@
+%div(data-role="page" id="speaker#{speaker[:id]}")
+  %div(data-role="header")
+    %h1 Speaker
+  %div(data-role="content")
+    %h1= speaker['name']
+    %h2= speaker['company']
+    = speaker['bio']
